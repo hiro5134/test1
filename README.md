@@ -10,3 +10,6 @@ git編集
 ---
 hello world!
 ---
+
+today is 08.11.2018
+next week is my birthday
