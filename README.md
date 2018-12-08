@@ -29,4 +29,6 @@ hi!
 `git commit [name]`できなくなった時の対処法  
 1. `git commit -a [name]`
 1. `git commit -i [name]`  
-1がダメなら2へ
+\1がダメなら2へ  
+参考URL  
+https://qiita.com/tatetate55/items/f94dc6f63dc02b620e7f
