@@ -32,4 +32,7 @@ hi!
 
 \1がダメなら2へ  
 参考URL  
-https://qiita.com/tatetate55/items/f94dc6f63dc02b620e7f
+https://qiita.com/tatetate55/items/f94dc6f63dc02b620e7f  
+
+gitに新規ディレクトリを追加する場合，空のものは追加できない  
+中身を入れればOK  
