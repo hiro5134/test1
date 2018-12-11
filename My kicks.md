@@ -21,8 +21,8 @@ here
   03/23/2016
 1. Onitsuka Tiger × ANDREA POMPILIO EMPIRICAL LO  
   08/05/2015  
-  ![代替テキスト](https://drive.google.com/open?id=1vYCWgsmKhNrfeZejscXmN58fi0j1Kz2k "タイトル")
+  ![代替テキスト](https://drive.google.com/uc?export=view&id=1vYCWgsmKhNrfeZejscXmN58fi0j1Kz2k "タイトル")
 
-  https://drive.google.com/open?id=1vYCWgsmKhNrfeZejscXmN58fi0j1Kz2k
+  https://drive.google.com/uc?export=view&id=1vYCWgsmKhNrfeZejscXmN58fi0j1Kz2k
 
-  <img width="200" alt="alt" src="https://drive.google.com/open?id=1vYCWgsmKhNrfeZejscXmN58fi0j1Kz2k">
+  <img width="200" alt="alt" src="https://drive.google.com/uc?export=view&id=1vYCWgsmKhNrfeZejscXmN58fi0j1Kz2k">
