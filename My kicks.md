@@ -21,8 +21,7 @@ here
   03/23/2016
 1. Onitsuka Tiger × ANDREA POMPILIO EMPIRICAL LO  
   08/05/2015  
-  <img width="200" alt="Onitsuka Tiger × ANDREA POMPILIO EMPIRICAL LO" src="https://drive.google.com/uc?export=view&id=1vYCWgsmKhNrfeZejscXmN58fi0j1Kz2k">
-  <img width="200" alt="Onitsuka Tiger × ANDREA POMPILIO EMPIRICAL LO" src="https://drive.google.com/uc?export=view&id=1vYCWgsmKhNrfeZejscXmN58fi0j1Kz2k">
-  
+  <img width="200" alt="Onitsuka Tiger × ANDREA POMPILIO EMPIRICAL LO" src="https://drive.google.com/uc?export=view&id=1vYCWgsmKhNrfeZejscXmN58fi0j1Kz2k"> <img width="200" alt="Onitsuka Tiger × ANDREA POMPILIO EMPIRICAL LO" src="https://drive.google.com/uc?export=view&id=1vYCWgsmKhNrfeZejscXmN58fi0j1Kz2k">
+
 画像の挿入について  
 https://qiita.com/kokuyokugetter/items/3b75f4daac73331b2cc4
