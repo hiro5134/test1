@@ -8,16 +8,6 @@ here
 * [第2章](#anchor2)
 
 
-|タイトル1|タイトル2|タイトル3|  
-|:||  
-|1|eee|1000|  
-|2|ddd|500|  
-|3|ccc|300|  
-|4|bbb|18|  
-|5|aaa|1|  
-
-
-
 1. adidas PURE BOOST 'LIMITED EDITION' WHT/L.GRY  
   02/09/2018  
   <img width="400" alt="adidas PURE BOOST 'LIMITED EDITION' WHT/L.GRY" src="https://drive.google.com/uc?export=view&id=1dLhuB3f8mX6_6fFem19I6TQSd5F1LY5j">
