@@ -18,14 +18,14 @@
 * [2019](#2019)
     * [JACK PURCELL](#jackpurcell)
     * [AIR MAX 90 NEON](#90neon)
-* [What I want](#want_list)
+* [What I want](#wantlist)
 
 ## <a id = "2018">2018</a>
-1. ## <a id = "pureboost">adidas PURE BOOST 'LIMITED EDITION' WHT/L.GRY</a>  
+1. ## <a id="pureboost">adidas PURE BOOST 'LIMITED EDITION' WHT/L.GRY</a>  
     Release : 02/09/2018  
     Source : [here](https://blog.mita-sneakers.co.jp/%E3%80%90%E5%BA%97%E9%A0%AD%E8%B2%A9%E5%A3%B2%E5%91%8A%E7%9F%A5%E3%80%91-202-26461.html)  
     <img width="400" alt="adidas PURE BOOST 'LIMITED EDITION' WHT/L.GRY" src="https://drive.google.com/uc?export=view&id=1dLhuB3f8mX6_6fFem19I6TQSd5F1LY5j">
-1. ## <a id = "moretemlightbone">NIKE AIR MORE UPTEMPO '96 'LIGHT BONE'</a>  
+1. ## <a id="moretemlightbone">NIKE AIR MORE UPTEMPO '96 'LIGHT BONE'</a>  
     Release : 07/15/2017  
     <img width="400" alt="NIKE AIR MORE UPTEMPO '96 'LIGHT BONE'" src="https://drive.google.com/uc?export=view&id=17vJyVmrEJJuUarDJf7Dek-eV6lnMuyPN"><img width="400" alt="NIKE AIR MORE UPTEMPO '96 'LIGHT BONE' 2" src="https://drive.google.com/uc?export=view&id=1sULRpt9b-_NvA8Md_aLYrVpJ4fz5bcuM"><img width="400" alt="NIKE AIR MORE UPTEMPO '96 'LIGHT BONE' 3" src="https://drive.google.com/uc?export=view&id=1yh_WjBTzncLHpBDQHmpMDr8Xiu53O4RQ"><img width="400" alt="NIKE AIR MORE UPTEMPO '96 'LIGHT BONE' 4" src="https://drive.google.com/uc?export=view&id=155tJZ5LHAmBA6n_4eUuIbAlP70m0ca1-">
 1. ## <a id="vaporstreet">NIKE VAPOR STREET FLYKNIT MEDIUM OLIVE/SEQUOIA-SAIL</a>  
@@ -67,12 +67,11 @@
 1. ## <a id="jackpurcell">CONVERSE JACK PURCELL MID</a>  
     Release : unknown  
     <img width="400" alt="CONVERSE JACK PURCELL MID" src="https://drive.google.com/uc?export=view&id=1-u_N7D3uL9y442XcPM_JBOvY3i1DmKES"><img width="400" alt="CONVERSE JACK PURCELL MID 2" src="https://drive.google.com/uc?export=view&id=1ewL1KdVkiX63IjDUi0-l-y4qZFbzQLKv">
-1. ## <a id ="90neon">NIKE AIR MAX 90 'NEON'</a>  
+1. ## <a id="90neon">NIKE AIR MAX 90 'NEON'</a>  
     Release :  02/16/2019  
     <img width="400" alt="NIKE AIR MAX 90 'NEON'" src="https://drive.google.com/uc?export=view&id=1UaXz5gxfmDV1gBcmyryvYiayDuOkGFpU">
 
-## <a id = "want_list">Wanted kicks</a>
-where  
+## <a id = "wantlist">Wanted kicks</a>
 1. NIKE AIR VAPORMAX MOC 'TRIPLE BLACK'  
     11/27/2017  
     <img width="400" alt="NIKE AIR VAPORMAX MOC 'TRIPLE BLACK'" src="https://drive.google.com/uc?export=view&id=1FWhRk9V4ek9jyNAluZvlvMWjN5VJiTlG"><img width="400" alt="NIKE AIR VAPORMAX MOC 'TRIPLE BLACK'2" src="https://drive.google.com/uc?export=view&id=19POTX_0R6377Fk7S-_g9aBurie7_ut7a">
