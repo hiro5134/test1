@@ -132,8 +132,8 @@
     <img width="400" alt="NIKE AIR HUARACHE MID NVY NVYDRK ASHCL GRY" src="https://drive.google.com/uc?export=view&id=1dkqTVe-I9k4hzvXXw-Ct3iQZFs9b0CwG">
 1. NIKE AIR HUARACHE  
     <img width="400" alt = "NIKE AIR HUARACHE" src="https://drive.google.com/uc?export=view&id=1D-66jQKJGNwx-RDXL7cYlARsGnowIYQh">
-1. PUMA × spoken words project    
-    Release : 09/16/2018  
+1. PUMA × spoken words project ewohaku  
+    Release : 04/28/2017  
     <img width="400" alt="ewohaku" src="https://drive.google.com/uc?export=view&id=1sCamj_hs48rS8ILMbCneWlRmveiNTjVA">
 1. NIKE AIR MAX 90 ESSENTIAL “Wolf Grey/Bright Crimson”  
     Release : 09/16/2018  
