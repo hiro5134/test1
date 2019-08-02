@@ -17,7 +17,7 @@
 ## 目次
   [はちや](#hachi)  [まさ](#masa) [がお](#gao)  
   [誠](#makoto) [たいち](#taichi) [としき](#toshiki) [こーた](#kota) [しょーへい](#shohei) [うじふく](#uji) [まごいち](#mago) [ふみや](#fumi) [なおき](#naoki) [がいなー](#gaina)  
-  [ともみ](#tomomi) [あい](#ai) [あやの](#ayano) [ふじおか](#fuji) [かなこ](#kanako) [りほ](#riho) [なしゅ](nashu) [えつこ](#etsuko) [あおい](#aoi)
+  [ともみ](#tomomi) [あい](#ai) [あやの](#ayano) [ふじおか](#fuji) [かなこ](#kanako) [りほ](#riho) [なしゅ](#nashu) [えつこ](#etsuko) [あおい](#aoi)
 
 
 ## <a id="hachi">はちや</a>  
