@@ -68,7 +68,7 @@
   がお  
   目次へ[戻る](#index)  
 ## <a id="makoto">誠</a>  
-  <img width="400" alt="makoto" src="https://drive.google.com/uc?export=view&id=1ZUbiHTE2aB7rDQIde936UHa3bNki7F4G">  
+  <img width="750" alt="makoto" src="https://drive.google.com/uc?export=view&id=1ZUbiHTE2aB7rDQIde936UHa3bNki7F4G">  
   目次へ[戻る](#index)  
 
 ## <a id="taichi">たいち</a>  
