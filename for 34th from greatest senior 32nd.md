@@ -2,10 +2,13 @@
 
 <p align="center">
 どうも32代目のマリプレです〜  
-
+</p>
+<p align="center">
 あれれ，今年2個上からマリプレないのかな〜？  
 </p>
-
+<p align="center">
+ん〜〜
+</p>
 ## <p align="center">あるよ〜！！</p>
 
 
