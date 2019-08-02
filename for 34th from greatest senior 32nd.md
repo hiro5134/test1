@@ -6,7 +6,7 @@
 あれれ，今年2個上からマリプレないのかな〜？  
 </div>
 
-## <div style="text-align: center;">・  ・  あるよ〜！！</div>
+## <p align="center">あるよ〜！！</p>
 
 
 <a id="index"></a>
