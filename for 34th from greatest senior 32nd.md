@@ -73,6 +73,7 @@
   目次へ[戻る](#index)  
 ## <a id="gao">がお</a>  
   がお  
+  <img width="750" alt="gao" src="https://drive.google.com/uc?export=view&id=17GPGGC3lRs6V_C40QsbMk1SW7sO8OIrU">  
   目次へ[戻る](#index)  
 ## <a id="makoto">誠</a>  
   誠からの卒業試験だよ！  
@@ -93,30 +94,38 @@
   目次へ[戻る](#index)  
 ## <a id="uji">うじふく</a>  
   うじふく  
+  <img width="750" alt="uji1" src="https://drive.google.com/uc?export=view&id=1kzG2Xipviv7izEX7psVQsjcnHI5Mrofd">  
+  <img width="750" alt="uji2" src="https://drive.google.com/uc?export=view&id=1BcOGyJgxZRhmUbOYOVM1pQp4pJS7YIb6">  
   目次へ[戻る](#index)  
 ## <a id="mago">まごいち</a>  
   まごいち  
   目次へ[戻る](#index)  
 ## <a id="fumi">ふみや</a>  
   ふみや  
+  <img width="750" alt="fumi" src="https://drive.google.com/uc?export=view&id=149TaIdJsJwCw1ydsFeB4hCMeIHPYG5oJ">  
   目次へ[戻る](#index)  
 ## <a id="naoki">なおき</a>  
   なおき  
   目次へ[戻る](#index)  
 ## <a id="gaina">がいなー</a>  
   がいなー  
+  <img width="750" alt="gaina" src="https://drive.google.com/uc?export=view&id=10s72QOieG6wSGp3JLqSnub-MRmvPhEg9">  
   目次へ[戻る](#index)  
 ## <a id="tomomi">ともみ</a>  
   ともみ  
+  <img width="750" alt="tomomi" src="https://drive.google.com/uc?export=view&id=1cjWWEI80sF8j2mjlreucIzecsXifFASg">  
+  <img width="750" alt="tomomi2" src="https://drive.google.com/uc?export=view&id=1bHQEgY-k0b7ek6SQ1EL1yr6Bb-s6QcVo">  
   目次へ[戻る](#index)  
 ## <a id="ai">あい</a>  
   あい  
+  <img width="750" alt="ai" src="https://drive.google.com/uc?export=view&id=1H2U_57MsUgT3DuT-6hP27M9riksHCd9h">  
   目次へ[戻る](#index)  
 ## <a id="ayano">あやの</a>  
   あやの  
   目次へ[戻る](#index)  
 ## <a id="fuji">ふじおか</a>  
   ふじおか  
+  <img width="750" alt="fujioka" src="https://drive.google.com/uc?export=view&id=1jh4xS8aW5VbfNmE4g2hPv6IhlU9Yk65t">  
   目次へ[戻る](#index)  
 ## <a id="kanako">かなこ</a>  
   かなこ  
@@ -126,10 +135,15 @@
   目次へ[戻る](#index)  
 ## <a id="nashu">なしゅ</a>  
   なしゅ  
+  <img width="750" alt="nashu" src="https://drive.google.com/uc?export=view&id=19qn0icVKoEwwKy4mUyJSoWPATYbNPuud">  
+  <img width="750" alt="nashu2" src="https://drive.google.com/uc?export=view&id=1XhVIoVvDCpLpaPteJrYKSU2eQWoUQKpT">  
   目次へ[戻る](#index)  
 ## <a id="etsuko">えつこ</a>  
   えつこ  
+  <img width="750" alt="etsuko" src="https://drive.google.com/uc?export=view&id=1S_XoatQuncOkmCruMLc_zA6VcU9shq1P">  
   目次へ[戻る](#index)  
 ## <a id="aoi">あおい</a>  
   あおい  
+  <img width="750" alt="aoi" src="https://drive.google.com/uc?export=view&id=1-gOjOHSybUPz2KzR39jRaAdl0TzxAth3">  
+  <img width="750" alt="aoi2" src="https://drive.google.com/uc?export=view&id=1vTet8JLwPJEbnEFB9ukf_eLp54rJt0X9">  
   目次へ[戻る](#index)  
