@@ -95,7 +95,7 @@
 ## <a id="uji">うじふく</a>  
   うじふく  
   <img width="750" alt="uji1" src="https://drive.google.com/uc?export=view&id=1kzG2Xipviv7izEX7psVQsjcnHI5Mrofd">  
-  [![uji1](https://drive.google.com/uc?export=view&id=1kzG2Xipviv7izEX7psVQsjcnHI5Mrofd)](https://drive.google.com/uc?export=view&id=1BcOGyJgxZRhmUbOYOVM1pQp4pJS7YIb6)  
+  [![uji1](https://drive.google.com/uc?export=view&id=1kzG2Xipviv7izEX7psVQsjcnHI5Mrofd)](https://drive.google.com/uc?export=view&id=1V-9jzy0dOfoBdcWYdE29VlN4YcUETiy7)  
   目次へ[戻る](#index)  
 ## <a id="mago">まごいち</a>  
   まごいち  
