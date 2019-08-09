@@ -94,6 +94,7 @@
   <img width="750" alt="masa" src="https://drive.google.com/uc?export=view&id=1hCv7nHAiwsrFPpbg5ENmFoUKPXjHgkkV">  
   </div></details>  
   目次へ[戻る](#index)  
+
 ## <a id="gao">がお</a>  
   がお  
   <img width="750" alt="gao" src="https://drive.google.com/uc?export=view&id=17GPGGC3lRs6V_C40QsbMk1SW7sO8OIrU">  
