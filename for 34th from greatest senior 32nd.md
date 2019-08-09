@@ -97,8 +97,8 @@
 ## <a id="uji">うじふく</a>  
   うじふく  
   <img width="750" alt="uji1" src="https://drive.google.com/uc?export=view&id=1kzG2Xipviv7izEX7psVQsjcnHI5Mrofd">  
-  <p align="center">↓↓　しょーたの研究[動画](https://drive.google.com/uc?export=view&id=1BcOGyJgxZRhmUbOYOVM1pQp4pJS7YIb6)だよ　↓↓</p>  
-  <p align="center">↓↓　[クリック！！](https://drive.google.com/uc?export=view&id=1BcOGyJgxZRhmUbOYOVM1pQp4pJS7YIb6)　↓↓</p>  
+  ↓↓　しょーたの研究[動画](https://drive.google.com/uc?export=view&id=1BcOGyJgxZRhmUbOYOVM1pQp4pJS7YIb6)だよ　↓↓  
+  ↓↓　[クリック！！](https://drive.google.com/uc?export=view&id=1BcOGyJgxZRhmUbOYOVM1pQp4pJS7YIb6)　↓↓  
   [![uji1](https://drive.google.com/uc?export=view&id=16iJlTzD8EcsVX-K8dvwAMQDt1NGjiD6q)](https://drive.google.com/uc?export=view&id=1BcOGyJgxZRhmUbOYOVM1pQp4pJS7YIb6)  
   そういえば筆者はこの前交差点でばったり会いました↓  
   <img width="750" alt="uji3" src="https://drive.google.com/uc?export=view&id=1GXs2gXu7X6t7ErODdPBdFZD_wgsrRSdq">  
