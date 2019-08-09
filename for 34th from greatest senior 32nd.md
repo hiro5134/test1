@@ -88,7 +88,8 @@
   ではでは、
   ### ＊＊＊アナル～～～＊＊＊  
   目次へ[戻る](#index)  
-## <details><summary><a id="masa">まさ</a></summary><div>  
+## <a id="masa">まさ</a>  
+  <details><summary>まさ</summary><div>  
 
   <img width="750" alt="masa" src="https://drive.google.com/uc?export=view&id=1hCv7nHAiwsrFPpbg5ENmFoUKPXjHgkkV">  
   </div></details>  
