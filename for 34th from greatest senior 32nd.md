@@ -70,6 +70,7 @@
   目次へ[戻る](#index)  
 ## <a id="masa">まさ</a>  
   まさ  
+  <img width="750" alt="masa" src="https://drive.google.com/uc?export=view?id=1hCv7nHAiwsrFPpbg5ENmFoUKPXjHgkkV">  
   目次へ[戻る](#index)  
 ## <a id="gao">がお</a>  
   がお  
@@ -88,6 +89,7 @@
   目次へ[戻る](#index)  
 ## <a id="kota">こーた</a>  
   こーた  
+  <img width="750" alt="uji1" src="https://drive.google.com/uc?export=view&id=1sYFkNjOTBdsxu0hPJgI92MlWnihjOSLB">  
   目次へ[戻る](#index)  
 ## <a id="shohei">しょーへい</a>  
   しょーへい  
@@ -95,19 +97,29 @@
 ## <a id="uji">うじふく</a>  
   うじふく  
   <img width="750" alt="uji1" src="https://drive.google.com/uc?export=view&id=1kzG2Xipviv7izEX7psVQsjcnHI5Mrofd">  
+  <p align="center">↓↓　しょーたの研究[動画](https://drive.google.com/uc?export=view&id=1BcOGyJgxZRhmUbOYOVM1pQp4pJS7YIb6)だよ　↓↓</p>
+  <p align="center">↓↓　[クリック！！](https://drive.google.com/uc?export=view&id=1BcOGyJgxZRhmUbOYOVM1pQp4pJS7YIb6)　↓↓</p>
   [![uji1](https://drive.google.com/uc?export=view&id=16iJlTzD8EcsVX-K8dvwAMQDt1NGjiD6q)](https://drive.google.com/uc?export=view&id=1BcOGyJgxZRhmUbOYOVM1pQp4pJS7YIb6)  
+  そういえば筆者はこの前交差点でばったり会いました↓
+  <img width="750" alt="uji3" src="https://drive.google.com/uc?export=view&id=1GXs2gXu7X6t7ErODdPBdFZD_wgsrRSdq">  
   目次へ[戻る](#index)  
 ## <a id="mago">まごいち</a>  
   まごいち  
   目次へ[戻る](#index)  
 ## <a id="fumi">ふみや</a>  
-  ふみや  
+  うさぎ飼い始めました。  
+  ボールにマウンティングするので、ボールに嫉妬しています  
   <img width="750" alt="fumi" src="https://drive.google.com/uc?export=view&id=149TaIdJsJwCw1ydsFeB4hCMeIHPYG5oJ">  
   目次へ[戻る](#index)  
 ## <a id="naoki">なおき</a>  
   なおき  
   目次へ[戻る](#index)  
 ## <a id="gaina">がいなー</a>  
+  夏合宿お疲れ様！  
+  もう引退とは月日の経つ早さに驚きます  
+  僕は絶賛二留中なので皆さんと一緒に卒業出来ればなと思います  
+  三年間お疲れ様でした！  
+
   がいなー  
   <img width="750" alt="gaina" src="https://drive.google.com/uc?export=view&id=10s72QOieG6wSGp3JLqSnub-MRmvPhEg9">  
   目次へ[戻る](#index)  
@@ -117,21 +129,40 @@
   <img width="750" alt="tomomi2" src="https://drive.google.com/uc?export=view&id=1bHQEgY-k0b7ek6SQ1EL1yr6Bb-s6QcVo">  
   目次へ[戻る](#index)  
 ## <a id="ai">あい</a>  
-  あい  
+  お久しぶりです〜社会人1年目の根本愛です！  
+  みんなもう引退なんですねお疲れさまでした！  
+  社会人になると疲れて遊ぶ気力がでないから就活終わったらたくさん遊びなね！！以上！  
   <img width="750" alt="ai" src="https://drive.google.com/uc?export=view&id=1H2U_57MsUgT3DuT-6hP27M9riksHCd9h">  
   目次へ[戻る](#index)  
 ## <a id="ayano">あやの</a>  
-  あやの  
+  <font color="Red">あやの</font>  
+  34代目のみんなへ  
+
+  引退おめでとう！  
+  3年間おつかれさまでした～  
+
+  34代目のおかげで、陰キャサークルだったマリナーズが少しは元気になったと感じてました、ありがとう😊笑  
+
+  残りの学生生活もめいっぱいたのしんでね☺  
+
+  わたし福岡にいるから、福岡来たときはぜひ呼び出してね！！  
+  <img width="750" alt="ayano" src="https://drive.google.com/uc?export=view&id=1ysjX1gq6RqgmiAdB__VTqkeOmY7C5Mc0">  
   目次へ[戻る](#index)  
 ## <a id="fuji">ふじおか</a>  
-  ふじおか  
+  みんな三年間お疲れ〜  
+  的なゆるいコメントで！笑笑  
   <img width="750" alt="fujioka" src="https://drive.google.com/uc?export=view&id=1jh4xS8aW5VbfNmE4g2hPv6IhlU9Yk65t">  
   目次へ[戻る](#index)  
 ## <a id="kanako">かなこ</a>  
-  かなこ  
+  今までお疲れ様でした！  
+  自分たちが入れた代が引退だなんてびっくり😳時間が経つのは早いね、、  
+  引退した後もみんなで遊んで思い出作ってください  
+  ほんとにお疲れ様でした！！  
+  <img width="750" alt="kanako" src="https://drive.google.com/uc?export=view&id=1Xaq0Ijs4gZAp9Ffox1syfUtoiCCfxkOw">  
   目次へ[戻る](#index)  
 ## <a id="riho">りほ</a>  
   りほ  
+  <img width="750" alt="riho" src="https://drive.google.com/uc?export=view&id=1ckKvraToyZvd9Z6_ZbgHtSoJFiWAoyNY">  
   目次へ[戻る](#index)  
 ## <a id="nashu">なしゅ</a>  
   なしゅ  
@@ -139,11 +170,18 @@
   <img width="750" alt="nashu2" src="https://drive.google.com/uc?export=view&id=1XhVIoVvDCpLpaPteJrYKSU2eQWoUQKpT">  
   目次へ[戻る](#index)  
 ## <a id="etsuko">えつこ</a>  
-  えつこ  
+  34代目のみなさま!!  
+
+  ここまでお疲れ様でした。大変だったこともありつつ、楽しかったんではないでしょうか。  
+  私も現役のときのことは、今となっては良い思い出...  
+  引退するって言ったって、全く会わなくなるわけではないし、残りの学生生活も楽しく過ごしてください!!  
+
+  ここんとこはまってるユキヒョウちゃんです。死ぬほど可愛い。飼いたい  
   <img width="750" alt="etsuko" src="https://drive.google.com/uc?export=view&id=1S_XoatQuncOkmCruMLc_zA6VcU9shq1P">  
   目次へ[戻る](#index)  
 ## <a id="aoi">あおい</a>  
-  あおい  
+  みんな元気ー？  
+  引退まで残りわずかだと思うけど、それまでめいいっぱい楽しんでね！  
   <img width="750" alt="aoi" src="https://drive.google.com/uc?export=view&id=1-gOjOHSybUPz2KzR39jRaAdl0TzxAth3">  
   <img width="750" alt="aoi2" src="https://drive.google.com/uc?export=view&id=1vTet8JLwPJEbnEFB9ukf_eLp54rJt0X9">  
   目次へ[戻る](#index)  
