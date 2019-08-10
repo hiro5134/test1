@@ -240,6 +240,7 @@
   引退まで残りわずかだと思うけど、それまでめいいっぱい楽しんでね！  
   <img width="750" alt="aoi" src="https://drive.google.com/uc?export=view&id=1-gOjOHSybUPz2KzR39jRaAdl0TzxAth3">  
   <img width="750" alt="aoi2" src="https://drive.google.com/uc?export=view&id=1vTet8JLwPJEbnEFB9ukf_eLp54rJt0X9">  
+  [![miyuki](https://drive.google.com/uc?export=view&id=1vTet8JLwPJEbnEFB9ukf_eLp54rJt0X9)](https://drive.google.com/uc?export=view&id=1AASWxqyo85z97xJwnPNpwj4LmboTArsO)
   目次へ[戻る](#index)  
 ## 編集の人  
   これを他の人に見てもらった時に言われました  
