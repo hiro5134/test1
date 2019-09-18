@@ -176,7 +176,7 @@
     Release : 09/12/2019  
     <img width="400" alt="95pink" src="https://drive.google.com/uc?export=view&id=1mIJoOmlujwVnYi7kN8C7vDuru5ON4P5E">  
 1. adidas ULTRABOOST DB3197  
-    Release : 09/12/2019  
+    Release : 02/22/2019  
     <img width="400" alt="ultraboostpink" src="https://drive.google.com/uc?export=view&id=1mXq52wjE97n6GDovI3QKjkLs2IhuK9j2">
     <img width="400" alt="ultraboostpink2" src="https://drive.google.com/uc?export=view&id=1h7y3V-Yf-pE3EyVTNvWhlSLuFBpAxGi2">
 
