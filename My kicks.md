@@ -21,7 +21,7 @@
     * [REACT × UNDERCOVER](#react)
     * [Reebok × Vetements](#vetements)
     * [Y-3](#y3)
-    * [HUMANRACE Oreo](#oreo)
+    * [HUMAN RACE 'Oreo'](#oreo)
 * [What I want](#wantlist)
 
 ## <a id = "2018">2018</a>
@@ -109,8 +109,9 @@
 1. ## <a id="oreo">adidas × Pharrell Williams Human Race NMD 'OREO'</a>  
     Release : 11/11/2017  
     Source : [here](https://sneakerwars.jp/items/view/6518)  
-    <img width="400" alt="Oreo" src="https://drive.google.com/uc?export=view&id=1K7HwmIpy2PEoVkgRWKnaoLJET1VUOLR3">  
-    →[Index](#index) →[2019](#2019) →[to HUMANRACE Oreo](#oreo)
+    <img width="400" alt="Oreo" src="https://drive.google.com/uc?export=view&id=1K7HwmIpy2PEoVkgRWKnaoLJET1VUOLR3">
+    <img width="400" alt="Oreo" src="https://drive.google.com/uc?export=view&id=1Kh789yYM7Y0CmVrMkJvyIckuVSiUmUBt">  
+    →[Index](#index) →[2019](#2019) →[to HUMAN RACE 'Oreo'](#oreo)
 
 ## <a id = "wantlist">Wanted kicks</a>
 1. NIKE AIR VAPORMAX MOC 'TRIPLE BLACK'  
