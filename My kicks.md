@@ -112,7 +112,7 @@
     Source : [here](https://sneakerwars.jp/items/view/6518)  
     <img width="400" alt="Oreo" src="https://drive.google.com/uc?export=view&id=1K7HwmIpy2PEoVkgRWKnaoLJET1VUOLR3">
     <img width="400" alt="Oreo1" src="https://drive.google.com/uc?export=view&id=1Kh789yYM7Y0CmVrMkJvyIckuVSiUmUBt">
-    <img width="400" alt="Oreo2" src="https://drive.google.com/ouc?export=view&id=1L2SXYMELKaH5CNt9fjIOPGlEuI5Epdge">
+    <img width="400" alt="Oreo2" src="https://drive.google.com/uc?export=view&id=1L2SXYMELKaH5CNt9fjIOPGlEuI5Epdge">
     <img width="400" alt="Oreo3" src="https://drive.google.com/uc?export=view&id=10SDuQg_J4uAQt-9VynIYOk9uAJQXGctZ">  
     →[Index](#index) →[2019](#2019) →[to HUMAN RACE 'Oreo'](#oreo)
 
