@@ -32,26 +32,32 @@
     →[Index](#index) →[2018](#2018) →[PURE BOOST](#pureboost)
 1. ## <a id="moretemlightbone">NIKE AIR MORE UPTEMPO '96 'LIGHT BONE'</a>  
     Release : 07/15/2017  
+    Source : [here](https://godmeetsfashion.com/2017/07/10/nike-air-more-uptempo-96-light-bone-release-20170715/)  
     <img width="400" alt="NIKE AIR MORE UPTEMPO '96 'LIGHT BONE'" src="https://drive.google.com/uc?export=view&id=17vJyVmrEJJuUarDJf7Dek-eV6lnMuyPN"><img width="400" alt="NIKE AIR MORE UPTEMPO '96 'LIGHT BONE' 2" src="https://drive.google.com/uc?export=view&id=1sULRpt9b-_NvA8Md_aLYrVpJ4fz5bcuM"><img width="400" alt="NIKE AIR MORE UPTEMPO '96 'LIGHT BONE' 3" src="https://drive.google.com/uc?export=view&id=1yh_WjBTzncLHpBDQHmpMDr8Xiu53O4RQ"><img width="400" alt="NIKE AIR MORE UPTEMPO '96 'LIGHT BONE' 4" src="https://drive.google.com/uc?export=view&id=155tJZ5LHAmBA6n_4eUuIbAlP70m0ca1-"><img width="400" alt="NIKE AIR MORE UPTEMPO '96 'LIGHT BONE' 5" src="https://drive.google.com/uc?export=view&id=1xyIOG6kSANjaulu4CXLgOoGboUsvZ_PE"><img width="400" alt="NIKE AIR MORE UPTEMPO '96 'LIGHT BONE' 6" src="https://drive.google.com/uc?export=view&id=1q2WjlFEXMV4bJGz50VAbO2qtx8K86PGR">  
     →[Index](#index) →[2018](#2018) →[to MORE UPTEMPO LIGHT BONE](#moretemlightbone)
 1. ## <a id="vaporstreet">NIKE VAPOR STREET FLYKNIT MEDIUM OLIVE/SEQUOIA-SAIL</a>  
     Release : 03/16/2018  
+    Source : [here](https://www.k-skit.com/item/nike/running/vapor-street-flyknit-aq1763-201/)  
     <img width="400" alt="NIKE VAPOR STREET FLYKNIT MEDIUM OLIVE/SEQUOIA-SAIL" src="https://drive.google.com/uc?export=view&id=1Dalh8T69qprNvaiyBf7L6mzXUcv9fSfh">  
     →[Index](#index) →[2018](#2018) →[to VAPOR STREET](#vaporstreet)
 1. ## <a id="tubular">adidas Originals TUBULAR DOOM PK ST PALE NUDE/CLEAR BROWN</a>  
     Release : 12/17/2016  
+    Source : [here](https://www.atmos-tokyo.com/items/bb2390)  
     <img width="400" alt="adidas Originals TUBULAR DOOM PK ST PALE NUDE/CLEAR BROWN" src="https://drive.google.com/uc?export=view&id=1_jz3fgbuOX1fWoUVs8LOpcDSaDe2G5f5"><img width="400" alt="adidas Originals TUBULAR DOOM PK ST PALE NUDE/CLEAR BROWN 2" src="https://drive.google.com/uc?export=view&id=1pzY3vqROdPdOpgq1dktceE0YMvpy5IS8">  
     →[Index](#index) →[2018](#2018) →[to TUBULAR](#tubular)
 1. ## <a id="vaporutility">NIKE AIR VAPORMAX FK UTILITY 'TRIPLE BLACK'</a>  
     Release : 01/13/2018  
+    Source : [here](https://www.nike.com/jp/launch/t/air-vapormax-utility-black/)  
     <img width="400" alt="NIKE AIR VAPORMAX FK UTILITY 'TRIPLE BLACK'" src="https://drive.google.com/uc?export=view&id=1IXutwpzsnPtbSP8-g-r2GBnIT77sp_of">  
     →[Index](#index) →[2018](#2018) →[to VAPORMAX UTILITY TRIPLE BLACK](#vaporutility)
 1. ## <a id="harden">adidas HARDEN LS 2 LACE GREY FIVE / CORE BLACK / WHITE TINT</a>  
     Release : 07/01/2018  
+    Source : [here](https://nikelab.jp/2018/06/adidas-harden-ls-2-lace-b28170-bb7651/)  
     <img width="400" alt="adidas HARDEN LS 2 LACE GREY FIVE / CORE BLACK / WHITE TINT" src="https://drive.google.com/uc?export=view&id=1VTjyCZ4t2df2znqZy0c3HDX24-j95Xoq">  
     →[Index](#index) →[2018](#2018) →[to HARDEN LS 2](#harden)
 1. ## <a id="martins">Dr.Martins 1461</a>  
     Release : unknown  
+    Source : [here](https://jp.drmartens.com/category/MEN_SHOES_3HOLE/?)  
     <img width="400" alt="Dr.Martins 1461" src="https://drive.google.com/uc?export=view&id=1lP1W8w8rra22oMnQ7X0ywx8M5s0T9pyC">  
     →[Index](#index) →[2018](#2018) →[to Dr.Martins](#martins)
 1. ## <a id="presto">NIKE AIR PRESTO LOW UTILITY BLACK WHITE</a>  
@@ -65,10 +71,13 @@
     →[Index](#index) →[2018](#2018) →[to VANS HI](#vans)
 1. ## <a id="saxe">Reebok CLASSIC INSTAPUMP FURY OG 'SAXE'</a>  
     Release : 01/02/2015  
+    Source : [here](https://www.fashionsnap.com/article/2014-10-09/2ndsax-instapump/)  
+    [here](https://prtimes.jp/main/html/rd/p/000000108.000012619.html)  
     <img width="400" alt="Reebok CLASSIC INSTAPUMP FURY OG 'SAXE'" src="https://drive.google.com/uc?export=view&id=14VfheAntU6k1SE0QE75IzDpzXzlviV6u"><img width="400" alt="Reebok CLASSIC INSTAPUMP FURY OG 'SAXE' 2" src="https://drive.google.com/uc?export=view&id=167v_oqsOOFStHeh1RNRRveClJi187mLn">  
     →[Index](#index) →[2018](#2018) →[to INSTAPUMP FURY OG 'SAXE'](#saxe)
 1. ## <a id="moretemblack">NIKE AIR MORE UPTEMPO BLACK WHITE</a>  
     Release : 03/23/2016  
+    Source : [here](https://sneakerwars.jp/items/view/5078)  
     <img width="400" alt="NIKE AIR MORE UPTEMPO BLACK WHITE" src="https://drive.google.com/uc?export=view&id=1cdbs9IyWJf6mWggLEOGRaHvwHbsnC-Gn"><img width="400" alt="NIKE AIR MORE UPTEMPO BLACK WHITE 2" src="https://drive.google.com/uc?export=view&id=1Qo0_bIGcVW7c8fvbtoUAD5jk_2vBsrXo"><img width="400" alt="NIKE AIR MORE UPTEMPO BLACK WHITE 3" src="https://drive.google.com/uc?export=view&id=1FE9-H_HeI8JAa5jrx5sqBlfzWkcdLG2B"><img width="400" alt="NIKE AIR MORE UPTEMPO BLACK WHITE 4" src="https://drive.google.com/uc?export=view&id=1XyKF3TYX_4sblQIHP7foU1DWsBwQUe9C">  
     →[Index](#index) →[2018](#2018) →[to MORE UPTEMPO BLACK WHITE](#moretemblack)
 1. ## <a id="allstar">CONVERSE ALL STAR HI</a>  
@@ -77,6 +86,8 @@
     →[Index](#index) →[2018](#2018) →[to ALL STAR HI](#allstar)
 1. ## <a id="empilical">Onitsuka Tiger × ANDREA POMPILIO EMPIRICAL LO</a>  
     Release : 08/05/2015  
+    Source : [here](https://www.onitsukatigermagazine.com/?p=13981&lang=en)  
+    [here](Onitsuka Tiger x ANDREA POMPILIO)  
     <img width="400" alt="Onitsuka Tiger × ANDREA POMPILIO EMPIRICAL LO" src="https://drive.google.com/uc?export=view&id=1vYCWgsmKhNrfeZejscXmN58fi0j1Kz2k"><img width="400" alt="Onitsuka Tiger × ANDREA POMPILIO EMPIRICAL LO 2" src="https://drive.google.com/uc?export=view&id=1sGl_Pm2aGeHo-UZVoSQT2NW_2O7gIGiZ"><img width="400" alt="Onitsuka Tiger × ANDREA POMPILIO EMPIRICAL LO 3" src="https://drive.google.com/uc?export=view&id=11vU1RMgF4PEKZHu6u-efQpLOBeHsnaXC">  
     →[Index](#index) →[2018](#2018) →[to EMPILICAL](#empilical)
 
@@ -87,10 +98,13 @@
     →[Index](#index) →[2019](#2019) →[to JACK PURCELL](#jackpurcell)
 1. ## <a id="90neon">NIKE AIR MAX 90 'NEON'</a>  
     Release :  02/16/2019  
+    Source : [here](https://sneakerwars.jp/items/view/8971)  
     <img width="400" alt="NIKE AIR MAX 90 'NEON'" src="https://drive.google.com/uc?export=view&id=1UaXz5gxfmDV1gBcmyryvYiayDuOkGFpU">  
     →[Index](#index) →[2019](#2019) →[to AIR MAX 90 'NEON'](#90neon)
 1. ## <a id="react">NIKE × UNDERCOVER REACT ELEMENT 87</a>  
     Release : 09/13/2018  
+    Source : [here](https://godmeetsfashion.com/2018/03/04/undercover-nike-epic-react-release-2018/)  
+    [here](https://www.nike.com/jp/launch/t/react-element-87-undercover-volt-black-university-red/)  
     <img width="400" alt="NIKE × UNDERCOVER REACT ELEMENT 87" src="https://drive.google.com/uc?export=view&id=1gsxjH35utjgs-r73r_5odvhArQ-YYANl"><img width="400" alt="NIKE × UNDERCOVER REACT ELEMENT 87 2" src="https://drive.google.com/uc?export=view&id=1d-gS37l5T-wRSfLb9kBxbFqOafitmVFG">
     <img width="400" alt="NIKE × UNDERCOVER REACT ELEMENT 87 3" src="https://drive.google.com/uc?export=view&id=1kK1aPkdU3wXxcsOnp881ent1cu0CuzL6">
     <img width="400" alt="NIKE × UNDERCOVER REACT ELEMENT 87 4" src="https://drive.google.com/uc?export=view&id=1ysu1Rdze7hTytyTf8UhRFziWw87yaQ6O">  
@@ -99,6 +113,7 @@
     Release : 11/11/2017  
     Source : [here](https://www.thelifewares.com/fashion/vetements-reebok-emoji-instapump-fury-release/)  
     [here](https://hypebeast.com/jp/2017/11/vetements-reebok-instapump-fury-emoji-mr-porter)  
+    [here](https://www.thelifewares.com/fashion/vetements-reebok-emoji-instapump-fury-release/)  
     <img width="400" alt="reebok × vetements instapump fury vet emoji 1" src="https://drive.google.com/uc?export=view&id=10LuacYS6oiR3hxQ0Zwmz4xL0KAHgGsw0">
     <img width="400" alt="reebok × vetements instapump fury vet emoji 2" src="https://drive.google.com/uc?export=view&id=1lKqUaaTWfDPN-rB5PNhUNwCsYBMIg5we">  
     →[Index](#index) →[2019](#2019) →[to Reebok × vetements](#vetements)
@@ -109,7 +124,7 @@
     →[Index](#index) →[2019](#2019) →[to Y-3](#y3)
 1. ## <a id="oreo">adidas × Pharrell Williams Human Race NMD 'OREO'</a>  
     Release : 11/11/2017  
-    Source : [here](https://sneakerwars.jp/items/view/6518)  
+    Source : [here](https://sneakerwars.jp/items/view/6518)  [here](https://godmeetsfashion.com/2017/05/08/pharrell-williams-adidas-nmd-human-race-release-20171111/)    
     <img width="400" alt="Oreo" src="https://drive.google.com/uc?export=view&id=1K7HwmIpy2PEoVkgRWKnaoLJET1VUOLR3">
     <img width="400" alt="Oreo1" src="https://drive.google.com/uc?export=view&id=1Kh789yYM7Y0CmVrMkJvyIckuVSiUmUBt">
     <img width="400" alt="Oreo2" src="https://drive.google.com/uc?export=view&id=1L2SXYMELKaH5CNt9fjIOPGlEuI5Epdge">
