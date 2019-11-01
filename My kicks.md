@@ -87,7 +87,8 @@
 1. ## <a id="empilical">Onitsuka Tiger × ANDREA POMPILIO EMPIRICAL LO</a>  
     Release : 08/05/2015  
     Source : [here](https://www.onitsukatigermagazine.com/?p=13981&lang=en)  
-    [here](Onitsuka Tiger x ANDREA POMPILIO)  
+    Source :[here](Onitsuka Tiger x ANDREA POMPILIO)  
+    what's about Andrea Pompolio :[here](https://www.fashionsnap.com/article/andrea-pompilio-onitsukatiger/)  
     <img width="400" alt="Onitsuka Tiger × ANDREA POMPILIO EMPIRICAL LO" src="https://drive.google.com/uc?export=view&id=1vYCWgsmKhNrfeZejscXmN58fi0j1Kz2k"><img width="400" alt="Onitsuka Tiger × ANDREA POMPILIO EMPIRICAL LO 2" src="https://drive.google.com/uc?export=view&id=1sGl_Pm2aGeHo-UZVoSQT2NW_2O7gIGiZ"><img width="400" alt="Onitsuka Tiger × ANDREA POMPILIO EMPIRICAL LO 3" src="https://drive.google.com/uc?export=view&id=11vU1RMgF4PEKZHu6u-efQpLOBeHsnaXC">  
     →[Index](#index) →[2018](#2018) →[to EMPILICAL](#empilical)
 
@@ -108,6 +109,8 @@
     <img width="400" alt="NIKE × UNDERCOVER REACT ELEMENT 87" src="https://drive.google.com/uc?export=view&id=1gsxjH35utjgs-r73r_5odvhArQ-YYANl"><img width="400" alt="NIKE × UNDERCOVER REACT ELEMENT 87 2" src="https://drive.google.com/uc?export=view&id=1d-gS37l5T-wRSfLb9kBxbFqOafitmVFG">
     <img width="400" alt="NIKE × UNDERCOVER REACT ELEMENT 87 3" src="https://drive.google.com/uc?export=view&id=1kK1aPkdU3wXxcsOnp881ent1cu0CuzL6">
     <img width="400" alt="NIKE × UNDERCOVER REACT ELEMENT 87 4" src="https://drive.google.com/uc?export=view&id=1ysu1Rdze7hTytyTf8UhRFziWw87yaQ6O">  
+    <img width="400" alt="NIKE × UNDERCOVER REACT ELEMENT 87 5" src="https://drive.google.com/uc?export=view&id=1pmL0r69YoQD77RQeGLexTfVCTcvlPKrQ">  
+    <img width="400" alt="NIKE × UNDERCOVER REACT ELEMENT 87 6" src="https://drive.google.com/uc?export=view&id=1ZhMhoMacHkmRB82VwojJNe6hyeDiuM9s">  
     →[Index](#index) →[2019](#2019) →[to REACT × UNDERCOVER](#react)  
 1. ## <a id="vetements">Reebok CLASSIC INSTAPUMP FURY VET EMOJI</a>  
     Release : 11/11/2017  
@@ -204,6 +207,39 @@
     Source : [here](https://yakkun-fashion.jp/adidas-ultraboost-launch-february22th-2019/)  
     <img width="400" alt="ultraboostpink" src="https://drive.google.com/uc?export=view&id=1mXq52wjE97n6GDovI3QKjkLs2IhuK9j2">
     <img width="400" alt="ultraboostpink2" src="https://drive.google.com/uc?export=view&id=1h7y3V-Yf-pE3EyVTNvWhlSLuFBpAxGi2">
+1. NIKE AIR MAX 97 'NEWSPAPER'  
+    Release : 09/16/2019  
+    Source : [here](https://hypebeast.com/jp/2019/9/nike-air-max-97-newspaper-release-921826-108)  
+    <img width="400" alt="newspaper" src="https://drive.google.com/uc?export=view&id=1fvjAQhywwSzfPiV3-kkyOMODNpAPqcVd">
+1. NIKE AIR MAX 97 PREMIUM LIGHT CREAM/BLACK-SAIL  
+    Release : 10/23/2019  
+    Source : [here](https://www.fullress.com/2018/10/09-nike-air-max-97-premium-tartan-light-cream-sail-312834-201/)  
+    Source : [here](https://www.nike.com/jp/launch/t/air-max-97-premium-light-cream-sail-black/)  
+    <img width="400" alt="lightcream" src="https://drive.google.com/uc?export=view&id=1KXgrOQ627LcIw7CR4uEFW7Do1wiD31Zu">  
+1. Onitsuka tiger EMPRICAL LO 2.0  
+    Release : 08/11/2019  
+    Source : [here](https://www.facebook.com/commerce/products/2963905073681459/?rid=281732175174685&rt=6)  
+    Source : [here](https://www.facebook.com/OnitsukaTigerJapan/photos/a.360324617315440/2836189473062263/?type=3)  
+    <img width="400" alt="empiricallo2" src="https://drive.google.com/uc?export=view&id=1Sn8Lq-agLPku7EufQPqfaMMBxT2MDYzu">  
+    <img width="400" alt="empiricallo2 2" src="https://drive.google.com/uc?export=view&id=14qc8dOZVEgrlECm0YFsitnMYOLCVDu1n">
+    <img width="400" alt="empiricallo2 3" src="https://drive.google.com/uc?export=view&id=16Fu62yMz5ZOkSLkRt6rJhVycMhW7sB62">
+1. NIKE AIR FORCE 1 GORE-TEX  
+    Release : 11/01/2019  
+    Source : [here](https://www.nike.com/jp/launch/t/air-force-1-low-gore-tex-black-ceramic/)  
+    <img width="400" alt="empiricallo2" src="https://drive.google.com/uc?export=view&id=12nwABsKGQ1ucEnr-ew9nhQC_RCw5qp0k">
+    <img width="400" alt="empiricallo2 2" src="https://drive.google.com/uc?export=view&id=1Auqo23iY-P_iankgRaiTIa1OU6PnjZDT">  
+    <img width="400" alt="empiricallo2 3" src="https://drive.google.com/uc?export=view&id=1js6jisXGMaB23BMUQKc_FPl1UIJDNJ06">
+    <img width="400" alt="empiricallo2 4" src="https://drive.google.com/uc?export=view&id=1SCsOdqMIpCwLK5zVUf_9-8Iu1PZu6ODK">
+1. NIKE AIR FORCE 1 CARHARTT WIP  
+    Release : 12/06/2018  
+    Source : [here](https://www.nike.com/jp/launch/t/air-force-1-carhartt-wip-ale-brown/)  
+    Source :[here](https://monokabu.com/sneaker_freaks/wip-x-2018-4)  
+    <img width="400" alt="carhartt" src="https://drive.google.com/uc?export=view&id=1D5ohkCBvt1AyNvav3WYD6lWtU4iYSLbx">  
+
+
+
+
+
 
 画像の挿入について  
 https://qiita.com/kokuyokugetter/items/3b75f4daac73331b2cc4  
