@@ -22,6 +22,8 @@
     * [Reebok × Vetements](#vetements)
     * [Y-3](#y3)
     * [HUMAN RACE 'Oreo'](#oreo)
+    * [EMPIRICAL 2.0](#empirical2)
+    * [YEEZY 500 SOFT VISION](#softvision)
 * [What I want](#wantlist)
 
 ## <a id = "2018">2018</a>
@@ -133,6 +135,21 @@
     <img width="400" alt="Oreo2" src="https://drive.google.com/uc?export=view&id=1L2SXYMELKaH5CNt9fjIOPGlEuI5Epdge">
     <img width="400" alt="Oreo3" src="https://drive.google.com/uc?export=view&id=10SDuQg_J4uAQt-9VynIYOk9uAJQXGctZ">  
     →[Index](#index) →[2019](#2019) →[to HUMAN RACE 'Oreo'](#oreo)
+1. ## <a id="empirical2">Onitsuka tiger EMPRICAL LO 2.0</a>  
+    Release : 08/11/2019  
+    Source : [here](https://www.facebook.com/commerce/products/2963905073681459/?rid=281732175174685&rt=6)  
+    Source : [here](https://www.facebook.com/OnitsukaTigerJapan/photos/a.360324617315440/2836189473062263/?type=3)  
+    <img width="400" alt="empiricallo2" src="https://drive.google.com/uc?export=view&id=1Sn8Lq-agLPku7EufQPqfaMMBxT2MDYzu">  
+    <img width="400" alt="empiricallo2 2" src="https://drive.google.com/uc?export=view&id=14qc8dOZVEgrlECm0YFsitnMYOLCVDu1n">
+    <img width="400" alt="empiricallo2 3" src="https://drive.google.com/uc?export=view&id=16Fu62yMz5ZOkSLkRt6rJhVycMhW7sB62">  
+    <img width="400" alt="empiricallo2 4" src="https://drive.google.com/uc?export=view&id=1GBloq1S9WPCpU388uKzhkbL5zwKg9JxZ">
+    →[Index](#index) →[2019](#2019) →[to EMPIRICAL 2.0](#empirical2)
+1. ## <a id="softvision">adidas YEEZY 500 soft vision</a>  
+    Release : 11/02/2019  
+    <img width="400" alt="yeezy500" src="https://drive.google.com/uc?export=view&id=1878x6_d6WVllSCBiieA2unrLYC7_90zu">  
+    <img width="400" alt="yeezy500 2" src="https://drive.google.com/uc?export=view&id=1nYHaaCU3jOixSXMB8Ps2tnnm4OyKnJ8C">
+    <img width="400" alt="yeezy500 3" src="https://drive.google.com/uc?export=view&id=1DFNKtY-Eh5mf-hm9wc7WnYNx0gLcz6tV">
+    →[Index](#index) →[2019](#2019) →[to YEEZY 500 SOFT VISION](#softvision)
 
 ## <a id = "wantlist">Wanted kicks</a>
 1. NIKE AIR VAPORMAX MOC 'TRIPLE BLACK'  
@@ -191,9 +208,6 @@
     Release : 03/29/2019  
     Source : [here](https://www.onitsukatigermagazine.com/store/products/detail.php?product_id=3005)  
     <img width="400" alt="tigerally" src="https://drive.google.com/uc?export=view&id=1UFwQXyeRF8w_8ysjJ5KqEsV1HozIRpLP">  
-1. adidas YEEZY BOOST 500 soft vision  
-    Release : 10/00/2019  
-    <img width="400" alt="yeezy500" src="https://drive.google.com/uc?export=view&id=1878x6_d6WVllSCBiieA2unrLYC7_90zu">  
 1. NIKE AIR MAX 95 GRAPE REVERSE  
     Release : 07/30/2019  
     Source : [here](https://uptodate.tokyo/nike-air-max-95-grape-reverse/)  
@@ -216,13 +230,6 @@
     Source : [here](https://www.fullress.com/2018/10/09-nike-air-max-97-premium-tartan-light-cream-sail-312834-201/)  
     Source : [here](https://www.nike.com/jp/launch/t/air-max-97-premium-light-cream-sail-black/)  
     <img width="400" alt="lightcream" src="https://drive.google.com/uc?export=view&id=1KXgrOQ627LcIw7CR4uEFW7Do1wiD31Zu">  
-1. Onitsuka tiger EMPRICAL LO 2.0  
-    Release : 08/11/2019  
-    Source : [here](https://www.facebook.com/commerce/products/2963905073681459/?rid=281732175174685&rt=6)  
-    Source : [here](https://www.facebook.com/OnitsukaTigerJapan/photos/a.360324617315440/2836189473062263/?type=3)  
-    <img width="400" alt="empiricallo2" src="https://drive.google.com/uc?export=view&id=1Sn8Lq-agLPku7EufQPqfaMMBxT2MDYzu">  
-    <img width="400" alt="empiricallo2 2" src="https://drive.google.com/uc?export=view&id=14qc8dOZVEgrlECm0YFsitnMYOLCVDu1n">
-    <img width="400" alt="empiricallo2 3" src="https://drive.google.com/uc?export=view&id=16Fu62yMz5ZOkSLkRt6rJhVycMhW7sB62">
 1. NIKE AIR FORCE 1 GORE-TEX  
     Release : 11/01/2019  
     Source : [here](https://www.nike.com/jp/launch/t/air-force-1-low-gore-tex-black-ceramic/)  
