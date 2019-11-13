@@ -142,7 +142,7 @@
     <img width="400" alt="empiricallo2" src="https://drive.google.com/uc?export=view&id=1Sn8Lq-agLPku7EufQPqfaMMBxT2MDYzu">  
     <img width="400" alt="empiricallo2 2" src="https://drive.google.com/uc?export=view&id=14qc8dOZVEgrlECm0YFsitnMYOLCVDu1n">
     <img width="400" alt="empiricallo2 3" src="https://drive.google.com/uc?export=view&id=16Fu62yMz5ZOkSLkRt6rJhVycMhW7sB62">  
-    <img width="400" alt="empiricallo2 4" src="https://drive.google.com/uc?export=view&id=1GBloq1S9WPCpU388uKzhkbL5zwKg9JxZ">
+    <img width="400" alt="empiricallo2 4" src="https://drive.google.com/uc?export=view&id=1GBloq1S9WPCpU388uKzhkbL5zwKg9JxZ">  
     →[Index](#index) →[2019](#2019) →[to EMPIRICAL 2.0](#empirical2)
 1. ## <a id="softvision">adidas YEEZY 500 soft vision</a>  
     Release : 11/02/2019  
