@@ -88,8 +88,7 @@
     →[Index](#index) →[2018](#2018) →[to ALL STAR HI](#allstar)
 1. ## <a id="empilical">Onitsuka Tiger × ANDREA POMPILIO EMPIRICAL LO</a>  
     Release : 08/05/2015  
-    Source : [here](https://www.onitsukatigermagazine.com/?p=13981&lang=en)  
-    Source :[here](Onitsuka Tiger x ANDREA POMPILIO)  
+    Source : [here](https://www.onitsukatigermagazine.com/?p=13981&lang=en)
     what's about Andrea Pompolio :[here](https://www.fashionsnap.com/article/andrea-pompilio-onitsukatiger/)  
     <img width="400" alt="Onitsuka Tiger × ANDREA POMPILIO EMPIRICAL LO" src="https://drive.google.com/uc?export=view&id=1vYCWgsmKhNrfeZejscXmN58fi0j1Kz2k"><img width="400" alt="Onitsuka Tiger × ANDREA POMPILIO EMPIRICAL LO 2" src="https://drive.google.com/uc?export=view&id=1sGl_Pm2aGeHo-UZVoSQT2NW_2O7gIGiZ"><img width="400" alt="Onitsuka Tiger × ANDREA POMPILIO EMPIRICAL LO 3" src="https://drive.google.com/uc?export=view&id=11vU1RMgF4PEKZHu6u-efQpLOBeHsnaXC">  
     →[Index](#index) →[2018](#2018) →[to EMPILICAL](#empilical)
@@ -107,7 +106,7 @@
 1. ## <a id="react">NIKE × UNDERCOVER REACT ELEMENT 87</a>  
     Release : 09/13/2018  
     Source : [here](https://godmeetsfashion.com/2018/03/04/undercover-nike-epic-react-release-2018/)  
-    [here](https://www.nike.com/jp/launch/t/react-element-87-undercover-volt-black-university-red/)  
+    Source : [here](https://www.nike.com/jp/launch/t/react-element-87-undercover-volt-black-university-red/)  
     <img width="400" alt="NIKE × UNDERCOVER REACT ELEMENT 87" src="https://drive.google.com/uc?export=view&id=1gsxjH35utjgs-r73r_5odvhArQ-YYANl"><img width="400" alt="NIKE × UNDERCOVER REACT ELEMENT 87 2" src="https://drive.google.com/uc?export=view&id=1d-gS37l5T-wRSfLb9kBxbFqOafitmVFG">
     <img width="400" alt="NIKE × UNDERCOVER REACT ELEMENT 87 3" src="https://drive.google.com/uc?export=view&id=1kK1aPkdU3wXxcsOnp881ent1cu0CuzL6">
     <img width="400" alt="NIKE × UNDERCOVER REACT ELEMENT 87 4" src="https://drive.google.com/uc?export=view&id=1ysu1Rdze7hTytyTf8UhRFziWw87yaQ6O">  
@@ -117,8 +116,8 @@
 1. ## <a id="vetements">Reebok CLASSIC INSTAPUMP FURY VET EMOJI</a>  
     Release : 11/11/2017  
     Source : [here](https://www.thelifewares.com/fashion/vetements-reebok-emoji-instapump-fury-release/)  
-    [here](https://hypebeast.com/jp/2017/11/vetements-reebok-instapump-fury-emoji-mr-porter)  
-    [here](https://www.thelifewares.com/fashion/vetements-reebok-emoji-instapump-fury-release/)  
+    Source : [here](https://hypebeast.com/jp/2017/11/vetements-reebok-instapump-fury-emoji-mr-porter)  
+    Source : [here](https://www.thelifewares.com/fashion/vetements-reebok-emoji-instapump-fury-release/)  
     <img width="400" alt="reebok × vetements instapump fury vet emoji 1" src="https://drive.google.com/uc?export=view&id=10LuacYS6oiR3hxQ0Zwmz4xL0KAHgGsw0">
     <img width="400" alt="reebok × vetements instapump fury vet emoji 2" src="https://drive.google.com/uc?export=view&id=1lKqUaaTWfDPN-rB5PNhUNwCsYBMIg5we">  
     →[Index](#index) →[2019](#2019) →[to Reebok × vetements](#vetements)
@@ -129,7 +128,8 @@
     →[Index](#index) →[2019](#2019) →[to Y-3](#y3)
 1. ## <a id="oreo">adidas × Pharrell Williams Human Race NMD 'OREO'</a>  
     Release : 11/11/2017  
-    Source : [here](https://sneakerwars.jp/items/view/6518)  [here](https://godmeetsfashion.com/2017/05/08/pharrell-williams-adidas-nmd-human-race-release-20171111/)    
+    Source : [here](https://sneakerwars.jp/items/view/6518)  
+    Source : [here](https://godmeetsfashion.com/2017/05/08/pharrell-williams-adidas-nmd-human-race-release-20171111/)    
     <img width="400" alt="Oreo" src="https://drive.google.com/uc?export=view&id=1K7HwmIpy2PEoVkgRWKnaoLJET1VUOLR3">
     <img width="400" alt="Oreo1" src="https://drive.google.com/uc?export=view&id=1Kh789yYM7Y0CmVrMkJvyIckuVSiUmUBt">
     <img width="400" alt="Oreo2" src="https://drive.google.com/uc?export=view&id=1L2SXYMELKaH5CNt9fjIOPGlEuI5Epdge">
