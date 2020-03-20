@@ -25,6 +25,8 @@
     * [EMPIRICAL 2.0](#empirical2)
     * [YEEZY 500 SOFT VISION](#softvision)
     * [AIR MAX 720 × UNDERCOVER](#airmax720)
+* [2020](#2020)
+    * [nike × sacai Waffle](#sacai)
 * [What I want](#wantlist)
 
 ## <a id = "2018">2018</a>
@@ -151,10 +153,13 @@
     <img width="400" alt="yeezy500 2" src="https://drive.google.com/uc?export=view&id=1nYHaaCU3jOixSXMB8Ps2tnnm4OyKnJ8C">
     <img width="400" alt="yeezy500 3" src="https://drive.google.com/uc?export=view&id=1DFNKtY-Eh5mf-hm9wc7WnYNx0gLcz6tV">
     →[Index](#index) →[2019](#2019) →[to YEEZY 500 SOFT VISION](#softvision)
-1. ## <a id="airmax720">AIR MAX 720 × UNDERCOVER</a>  
+1. ## <a id="airmax720">NIKE AIR MAX 720 × UNDERCOVER</a>  
     Release : 11/02/2019  
     <img width="400" alt="720" src="https://drive.google.com/uc?export=view&id=1ZLggypFuKeN2zA47BU3aDRIU8U5QXQJn">  
     →[Index](#index) →[2019](#2019) →[to AIR MAX 720 × UNDERCOVER](#airmax720)
+
+## <a id = "2020">2020</a>  
+1. ## <a id="sacai">NIKE × sacai LD Waffle Summit White</a>  
 
 ## <a id = "wantlist">Wanted kicks</a>
 1. NIKE AIR VAPORMAX MOC 'TRIPLE BLACK'  
@@ -247,7 +252,8 @@
     Source : [here](https://www.nike.com/jp/launch/t/air-force-1-carhartt-wip-ale-brown/)  
     Source : [here](https://monokabu.com/sneaker_freaks/wip-x-2018-4)  
     <img width="400" alt="carhartt" src="https://drive.google.com/uc?export=view&id=1D5ohkCBvt1AyNvav3WYD6lWtU4iYSLbx">  
-
+1. new balance M1530LP -BILLY'S EXCLUSIVE-
+1. converse chuck taylor ’70
 
 
 
