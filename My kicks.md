@@ -26,7 +26,7 @@
     * [YEEZY 500 SOFT VISION](#softvision)
     * [AIR MAX 720 × UNDERCOVER](#airmax720)
 * [2020](#2020)
-    * [nike × sacai Waffle](#sacai)
+    * [NIKE × sacai Waffle](#sacai)
 * [What I want](#wantlist)
 
 ## <a id = "2018">2018</a>
@@ -160,6 +160,10 @@
 
 ## <a id = "2020">2020</a>  
 1. ## <a id="sacai">NIKE × sacai LD Waffle Summit White</a>  
+    Release : 11/02/2019  
+    <img width="400" alt="sacai" src="https://drive.google.com/uc?export=view&id=1WVf-04-qaapvRCP_3heKuLdWKWNagx_g">  
+    <img width="400" alt="sacai2" src="https://drive.google.com/uc?export=view&id=1g9aASvIUxfrXP8aEggvIXEULToqjps_n">  
+    →[Index](#index) →[2020](#2020) →[to NIKE × sacai Waffle](#sacai)
 
 ## <a id = "wantlist">Wanted kicks</a>
 1. NIKE AIR VAPORMAX MOC 'TRIPLE BLACK'  
