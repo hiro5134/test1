@@ -160,7 +160,8 @@
 
 ## <a id = "2020">2020</a>  
 1. ## <a id="sacai">NIKE × sacai LD Waffle Summit White</a>  
-    Release : 11/02/2019  
+    Release : 09/12/2019  
+    Source : [here](https://sneakerwars.jp/items/view/10286)  
     <img width="400" alt="sacai" src="https://drive.google.com/uc?export=view&id=1WVf-04-qaapvRCP_3heKuLdWKWNagx_g">  
     <img width="400" alt="sacai2" src="https://drive.google.com/uc?export=view&id=1g9aASvIUxfrXP8aEggvIXEULToqjps_n">  
     →[Index](#index) →[2020](#2020) →[to NIKE × sacai Waffle](#sacai)
