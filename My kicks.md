@@ -26,7 +26,8 @@
     * [YEEZY 500 SOFT VISION](#softvision)
     * [AIR MAX 720 × UNDERCOVER](#airmax720)
 * [2020](#2020)
-    * [NIKE × sacai Waffle](#sacai)
+    * [NIKE × sacai Waffle](#sacai)  
+    * [Converse × Carhartt WIP CT70](#carharttct70)
 * [What I want](#wantlist)
 
 ## <a id = "2018">2018</a>
@@ -151,7 +152,7 @@
     Release : 11/02/2019  
     <img width="400" alt="yeezy500" src="https://drive.google.com/uc?export=view&id=1878x6_d6WVllSCBiieA2unrLYC7_90zu">  
     <img width="400" alt="yeezy500 2" src="https://drive.google.com/uc?export=view&id=1nYHaaCU3jOixSXMB8Ps2tnnm4OyKnJ8C">
-    <img width="400" alt="yeezy500 3" src="https://drive.google.com/uc?export=view&id=1DFNKtY-Eh5mf-hm9wc7WnYNx0gLcz6tV">
+    <img width="400" alt="yeezy500 3" src="https://drive.google.com/uc?export=view&id=1DFNKtY-Eh5mf-hm9wc7WnYNx0gLcz6tV">  
     →[Index](#index) →[2019](#2019) →[to YEEZY 500 SOFT VISION](#softvision)
 1. ## <a id="airmax720">NIKE AIR MAX 720 × UNDERCOVER</a>  
     Release : 11/02/2019  
@@ -165,6 +166,14 @@
     <img width="400" alt="sacai" src="https://drive.google.com/uc?export=view&id=1WVf-04-qaapvRCP_3heKuLdWKWNagx_g">  
     <img width="400" alt="sacai2" src="https://drive.google.com/uc?export=view&id=1g9aASvIUxfrXP8aEggvIXEULToqjps_n">  
     →[Index](#index) →[2020](#2020) →[to NIKE × sacai Waffle](#sacai)
+1. ## <a id="carharttct70">Converse × Carhartt WIP "Renew" Chuck 70 HI</a>  
+    Release : 05/28/2020  
+    Source : [here](https://sneakernews.com/2020/05/21/carhartt-converse-renew-chuck-70/)  
+    <img width="400" alt="carharttct70" src="https://drive.google.com/uc?export=view&id=1DxjZtFNngYI-g5h5Qs3HQTZjOabHAQ5c">  
+    <img width="400" alt="carharttct701" src="https://drive.google.com/uc?export=view&id=1ccK3UKU17bb2ZciBtzAsH6o0ur1BRQV_">  
+    →[Index](#index) →[2020](#2020) →[to Converse × Carhartt WIP CT70](#carharttct70)
+
+
 
 ## <a id = "wantlist">Wanted kicks</a>
 1. NIKE AIR VAPORMAX MOC 'TRIPLE BLACK'  
