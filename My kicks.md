@@ -280,9 +280,7 @@
 1. Kith Ronnie Fieg × New Balance M992 “Steel Blue”  
     Source : [here](https://sneakerwars.jp/items/view/12405)  
     <img width="400" alt="15009fr" src="https://drive.google.com/uc?export=view&id=1445y-BfTbRvu0alOdyKUG5BEQq-SyRIz">  
-1. Carhartt WIP x Converse Renew Chuck 70  
-    Source : [here](https://sneakernews.com/2020/05/21/carhartt-converse-renew-chuck-70/)  
-    <img width="400" alt="15009fr" src="https://drive.google.com/uc?export=view&id=1gzUazGOOWFBOeOSMVC7HfZsHakTD0FAE">  
+
 
 画像の挿入について  
 https://qiita.com/kokuyokugetter/items/3b75f4daac73331b2cc4  
