@@ -28,6 +28,7 @@
 * [2020](#2020)
     * [NIKE × sacai Waffle](#sacai)  
     * [Converse × Carhartt WIP CT70](#carharttct70)
+    * [AIR FORCE 1](#af1)
 * [What I want](#wantlist)
 
 ## <a id = "2018">2018</a>
@@ -172,7 +173,10 @@
     <img width="400" alt="carharttct70" src="https://drive.google.com/uc?export=view&id=1DxjZtFNngYI-g5h5Qs3HQTZjOabHAQ5c">  
     <img width="400" alt="carharttct701" src="https://drive.google.com/uc?export=view&id=1ccK3UKU17bb2ZciBtzAsH6o0ur1BRQV_">  
     →[Index](#index) →[2020](#2020) →[to Converse × Carhartt WIP CT70](#carharttct70)
-
+1. ## <a id="af1">NIKE AIR FORCE 1 07</a>  
+    Release : unknown  
+    <img width="400" alt="af1" src="https://drive.google.com/uc?export=view&id=1bKc2uNAt40QoQPv2TQCrI4XErbvkMsQm">  
+    →[Index](#index) →[2020](#2020) →[to AIR FORCE 1](#af1)
 
 
 ## <a id = "wantlist">Wanted kicks</a>
