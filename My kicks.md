@@ -29,6 +29,7 @@
     * [NIKE × sacai Waffle](#sacai)  
     * [Converse × Carhartt WIP CT70](#carharttct70)
     * [AIR FORCE 1](#af1)
+    * [MRL996 MU COOL GRAY](#mrl996)
 * [What I want](#wantlist)
 
 ## <a id = "2018">2018</a>
@@ -178,6 +179,11 @@
     Release : unknown  
     <img width="400" alt="af1" src="https://drive.google.com/uc?export=view&id=1bKc2uNAt40QoQPv2TQCrI4XErbvkMsQm">  
     →[Index](#index) →[2020](#2020) →[to AIR FORCE 1](#af1)
+1. ## <a id="mrl996">NEW BALANCE MRL996 MC COL GRAY 16FW</a>  
+    Release :  09/2016  
+    <img width="400" alt="NEW BALANCE MRL996 MC COOL GRAY" src="https://drive.google.com/uc?export=view&id=1KkuvVOPqLiLf86NA_xLyqS_p7h5KI2xP">
+    <img width="400" alt="NEW BALANCE MRL996 MC COOL GRAY 2" src="https://drive.google.com/uc?export=view&id=1gUtq8amVpad_oWviQu1lOoo4gtsoncvP">  
+    →[Index](#index) →[2020](#2020) →[to MRL996 MC COOL GRAY](#mrl996)
 
 
 ## <a id = "wantlist">Wanted kicks</a>
@@ -187,9 +193,6 @@
 1. NEW BALANCE MRL996 AN NAVY  
     unknown  
     <img width="400" alt="NEW BALANCE MRL996 AN NAVY" src="https://drive.google.com/uc?export=view&id=1Bkw9oAQoBxqOPPFVCqgpAPQAtk0uBD1n">
-1. NEW BALANCE MRL996 MC COOL GRAY  
-    09/2016  
-    <img width="400" alt="NEW BALANCE MRL996 MC COOL GRAY" src="https://drive.google.com/uc?export=view&id=1KkuvVOPqLiLf86NA_xLyqS_p7h5KI2xP"><img width="400" alt="NEW BALANCE MRL996 MC COOL GRAY 2" src="https://drive.google.com/uc?export=view&id=1gUtq8amVpad_oWviQu1lOoo4gtsoncvP">
 1. NIKE × COMME des GARCONS AIR VAPORMAX  
     02/27/2017  
     <img width="400" alt="NIKE × COMME des GARCONS AIR VAPORMAX" src="https://drive.google.com/uc?export=view&id=1o8wrTkCWZdy-YU-UACAkjEMDGLzFCtsD">
