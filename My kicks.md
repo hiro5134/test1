@@ -30,6 +30,7 @@
     * [Converse × Carhartt WIP CT70](#carharttct70)
     * [AIR FORCE 1](#af1)
     * [MRL996 MU COOL GRAY](#mrl996)
+    * [YEEZY 350 v2 BRED](#350)
 * [What I want](#wantlist)
 
 ## <a id = "2018">2018</a>
@@ -182,9 +183,14 @@
 1. ## <a id="mrl996">NEW BALANCE MRL996 MC COL GRAY 16FW</a>  
     Release :  09/2016  
     <img width="400" alt="NEW BALANCE MRL996 MC COOL GRAY" src="https://drive.google.com/uc?export=view&id=1KkuvVOPqLiLf86NA_xLyqS_p7h5KI2xP">
-    <img width="400" alt="NEW BALANCE MRL996 MC COOL GRAY 2" src="https://drive.google.com/uc?export=view&id=1gUtq8amVpad_oWviQu1lOoo4gtsoncvP">  
+    <img width="400" alt="NEW BALANCE MRL996 MC COOL GRAY 2" src="https://drive.google.com/uc?export=view&id=1gUtq8amVpad_oWviQu1lOoo4gtsoncvP">
+    <img width="400" alt="NEW BALANCE MRL996 MC COOL GRAY 3" src="https://drive.google.com/uc?export=view&id=1eny12ImXAbX9Qw_eHsI_Q0pxkRJ25atC">
     →[Index](#index) →[2020](#2020) →[to MRL996 MC COOL GRAY](#mrl996)
-
+1. ## <a id="350">adidas YEEZY 350 v2 BRED</a>  
+    Release : 12/05/2020  
+    <img width="400" alt="adidas YEEZY 350 v2 BRED" src="https://drive.google.com/uc?export=view&id=1iXGWa-BcDSV5K96hVB-qFlIxIvxtSKkq">
+    <img width="400" alt="adidas YEEZY 350 v2 BRED 2" src="https://drive.google.com/uc?export=view&id=13WROQDUpjRPq5pDZfOhJHNkJbS_2aBXl">  
+    →[Index](#index) →[2020](#2020) →[to yeezy 350 v2 BRED](#350)
 
 ## <a id = "wantlist">Wanted kicks</a>
 1. NIKE AIR VAPORMAX MOC 'TRIPLE BLACK'  
