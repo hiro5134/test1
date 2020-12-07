@@ -188,8 +188,8 @@
     →[Index](#index) →[2020](#2020) →[to MRL996 MC COOL GRAY](#mrl996)
 1. ## <a id="350">adidas YEEZY 350 v2 BRED</a>  
     Release : 12/05/2020  
-    <img width="400" alt="adidas YEEZY 350 v2 BRED" src="https://drive.google.com/uc?export=view&id=17WIFcmJ1xRc9uommPq2HrI0clMEidd0N">
-    <img width="400" alt="adidas YEEZY 350 v2 BRED 2" src="https://drive.google.com/uc?export=view&id=1h3FxgjTCf_bGLKmykaooq7VJjx9K0rBl">  
+    <img width="400" alt="adidas YEEZY 350 v2 BRED" src="https://drive.google.com/uc?export=view&id=1QNGrBFm8wyqhRTV7Zsf0LRH853e165TR">
+    <img width="400" alt="adidas YEEZY 350 v2 BRED 2" src="https://drive.google.com/uc?export=view&id=1NIUGHZe2hdAbNioEaM8pIhSMXpoZW0B1">  
     →[Index](#index) →[2020](#2020) →[to yeezy 350 v2 BRED](#350)
 
 ## <a id = "wantlist">Wanted kicks</a>
