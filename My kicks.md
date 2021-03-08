@@ -33,6 +33,8 @@
     * [YEEZY 350 v2 BRED](#350)
 * [2021](#2021)
     * [NEW BALANCE M991SVB](#991)
+    * [NIKE × UNDEFEATED AIR MAX 97](#97)
+    * [YEEZY 700 ANALOG](#analog)
 * [What I want](#wantlist)
 
 ## <a id = "2018">2018</a>
@@ -199,6 +201,15 @@
     Release :
     <img width="400" alt="991 svb" src="https://drive.google.com/uc?export=view&id=1UvsYq31ZVeqSlLBFDnAl54WzDvFDYzZL">  
     →[Index](#index) →[2021](#2021) →[to m991svb](#991)
+1. ## <a id="97">NIKE × UNDEFEATED AIR MAX 97</a>  
+    Release : 12/29/2020  
+    <img width="400" alt="nike undefeated air max 97" src="https://drive.google.com/uc?export=view&id=1kdJn-C55l2Bf_jbt2vs2vJcfeqtaPQgF">  
+    →[Index](#index) →[2021](#2021) →[to undefeated97](#97)
+1. ## <a id="analog">adidas YEEZY BOOST 700 ANALOG</a>  
+    Release : 04/27/2019  
+    <img width="400" alt="adidas yeezy boost 700 analog" src="https://drive.google.com/uc?export=view&id=1P7g8gFi7upL4asG9hDhJ5BtFCagd9JzH">  
+    <img width="400" alt="adidas yeezy boost 700 analog" src="https://drive.google.com/uc?export=view&id=1PGEhBxUa2rDzb4Y8AbvLgXiYR9wly8NC">  
+    →[Index](#index) →[2021](#2021) →[to analog](#analog)
 
 ## <a id = "wantlist">Wanted kicks</a>
 1. NIKE AIR VAPORMAX MOC 'TRIPLE BLACK'  
@@ -232,9 +243,6 @@
 1. NIKE AIR MAX 90 ESSENTIAL “Wolf Grey/Bright Crimson”  
     Release : 09/16/2018  
     <img width="400" alt="90 essential" src="https://drive.google.com/uc?export=view&id=1gMBQI06myX1Nhy_2TErIiQ7wEH-5ymBw">
-1. adidas yeezy boost 700 v2 analog  
-    Release : 04/27/2019  
-    <img width="400" alt="adidas yeezy boost 700 v2 analog" src="https://drive.google.com/uc?export=view&id=1P7g8gFi7upL4asG9hDhJ5BtFCagd9JzH">
 1. adidas yeezy boost 700 v2 venta  
     Release : 05/31/2019  
     <img width="400" alt="adidas yeezy boost 700 v2 venta" src="https://drive.google.com/uc?export=view&id=1HIv2vbCjlVdsa7TA0cscDEAP_dn97rXS">
