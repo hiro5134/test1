@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8">
+    <title>HTML sample</title>
+    <script type="text/javascript"></script>
+  </head>
+
+  <body>
+    <a href="./fig/moreuptempo.jpg" id="sample">abc</a><br>
+    <a href="./test.jsp" id="sample">jsp</a><br>
+    <a href="./fig/moreuptempo.jpg">html</a><br>
+
+    <div id="drawArea">ここに画像表示</div>
+
+    <script>
+      document.body.onclick=mess;
+      function mess(e){var o=e?e.target:event.srcElement;if(o.tagName=='A' && o.id=="sample"){
+        alert(o.href);
+        var ele = document.getElementById("drawArea");
+        ele.innerHTML = "<img src=" + o.href + "><br>";
+        return false;
+      }}
+    </script>
+  </body>
+</html>
