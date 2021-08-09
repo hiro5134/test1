@@ -2,25 +2,38 @@
 <html lang="ja">
   <head>
     <meta charset="UTF-8">
-    <title>HTML sample</title>
-    <script type="text/javascript"></script>
+    <title>HTML index</title>
+    <script type="text/javascript" src="./javascript.js"></script>
+    <!--
+    <script>
+      window.location.href = './here.html';
+    </script>
+  -->
   </head>
 
   <body>
-    <a href="./fig/moreuptempo.jpg" id="sample">abc</a><br>
-    <a href="./test.jsp" id="sample">jsp</a><br>
-    <a href="./fig/moreuptempo.jpg">html</a><br>
+    here is index.<br>
+    before show me, here.html is shown.
 
-    <div id="drawArea">ここに画像表示</div>
+    <!--
+    <iframe src="./here.html" width="600" height="100"></iframe>
+    -->
+
+    <div id="box"></div>
 
     <script>
-      document.body.onclick=mess;
-      function mess(e){var o=e?e.target:event.srcElement;if(o.tagName=='A' && o.id=="sample"){
-        alert(o.href);
-        var ele = document.getElementById("drawArea");
-        ele.innerHTML = "<img src=" + o.href + "><br>";
-        return false;
-      }}
-    </script>
-  </body>
+  	var xhr = new XMLHttpRequest(),
+  		method = "GET",
+  		url = "here.html";//読み込まれるHTMLを指定
+  	var box=document.getElementById("box");//読み込みたい位置を指定
+
+  	xhr.open(method, url, true);
+  	xhr.onreadystatechange = function () {
+  		if(xhr.readyState === 4 && xhr.status === 200) {
+  			var restxt=xhr.responseText;//String型で取得
+  			box.innerHTML=restxt;//完了
+  		}
+  	};
+  	xhr.send();
+  </script>
 </html>

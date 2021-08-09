@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8">
+    <title>HTML sample</title>
+    <link rel="stylesheet" href="style.css">
+    <script type="text/javascript"></script>
+    <script>
+      strName = document.getElementById('CUST_NAME')
+      strName.value = strName.value
+    </script>
+  </head>
+
+  <body>
+    <!--
+      document.getElementById('target-image').addEventListener("load", ImageGuide);
+
+    -->
+
+    <a href="./fig/moreuptempo.jpg" id="sample">abc</a><br>
+    <a href="./test.jsp" id="sample">jsp</a><br>
+    <a href="./fig/moreuptempo.jpg">html</a><br>
+
+    <div>
+      <div id="drawArea">ここに画像表示</div>
+      <div style="top:20px">koko</div>
+    </div>
+
+    <input type="text" value="" placeholder="表示させたいテキストを記述" style="width:90%">
+
+    <ul>
+      <li>aaa</li>
+      <li>b</li>
+    </ul>
+
+    <li>aaa</li>
+    <li>g</li>
+    <!-- -->
+    <div id="sample">
+      <label for="toggle">ここをクリックすると</label>
+      <input type="checkbox" id="toggle">
+      <div>
+        <p>要素が変化します</p>
+      </div>
+    </div>
+    <!-- -->
+    <div class="tabs">
+          <input id="all" type="radio" name="tab_item" checked>
+          <label class="tab_item" for="all">総合</label>
+          <input id="programming" type="radio" name="tab_item">
+          <label class="tab_item" for="programming">プログラミング</label>
+          <input id="design" type="radio" name="tab_item">
+          <label class="tab_item" for="design">デザイン</label>
+
+          <div class="tab_content" id="all_content">
+            <div class="tab_content_description">
+              <p class="c-txtsp">総合の内容がここに入ります</p>
+            </div>
+          </div>
+          <div class="tab_content" id="programming_content">
+            <div class="tab_content_description">
+              <p class="c-txtsp">プログラミングの内容がここに入ります</p>
+            </div>
+          </div>
+          <div class="tab_content" id="design_content">
+            <div class="tab_content_description">
+              <p class="c-txtsp">デザインの内容がここに入ります</p>
+            </div>
+          </div>
+    </div>
+    <!-- -->
+    <form action="#" method="post" name="form1">
+      <button type="submit" name="BUTTON_ID" value="M02"
+			  style="width: 30%; padding: 4px;
+        position: relative;right: 30px; top: 0px;"
+        >メニュー画面へ戻る</button>
+      <input type="text" name="CUST_NAME" maxlength="32" size="45">
+    </form>
+    <!-- -->
+    <script>
+      document.body.onclick=mess;
+      function mess(e){var o=e?e.target:event.srcElement;if(o.tagName=='A' && o.id=="sample"){
+        alert(o.href);
+        var ele = document.getElementById("drawArea");
+        ele.innerHTML = "<img src=" + o.href + "><br>";
+        return false;
+      }}
+    </script>
+  </body>
+</html>
