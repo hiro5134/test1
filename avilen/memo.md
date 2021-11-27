@@ -5,8 +5,8 @@
     * [Library](#lib)
     * [Higher API](#higherapi)
 * [Chapter 2](#cp2)
-    * [MLP基礎](#mlp)
-    * [順伝播](#fp)
+    * [活性化関数](#mlp)
+    * [万能近似定理 Universal Approximation Theorem](#uat)
     * [誤差逆伝播法](#bp)
 
 
@@ -29,7 +29,7 @@
     | Gluon | AWS, Microsoft | 2017 | MXNet用のAPI |
 
 ## <a id = "cp2">Chapter 2</a>
-1. ## <a id="mlp">活性化関数</a>
+1. ## <a id="activation">活性化関数</a>
     中間層の表現を非線形にするため．  
     表現力の向上
     - step関数  
@@ -60,7 +60,7 @@
         ReLu関数よりも表現力が高く勾配が消えない   
         活性化関数自体を学習
 
-1. ## <a id="fp">万能近似定理</a>
+1. ## <a id="uat">万能近似定理 Universal Approximation Theorem</a>
     3層モデルの中間層のノードを極限まで増やせばあらゆる関数を近似可能  
     →現実的でない  
     →活性化関数により，層を横に伸ばすことで表現力をあげられる（計算コストも少なく収まる）  
