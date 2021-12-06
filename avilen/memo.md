@@ -1,3 +1,14 @@
+<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+<script type="text/x-mathjax-config">
+ MathJax.Hub.Config({
+ tex2jax: {
+ inlineMath: [['$', '$'] ],
+ displayMath: [ ['$$','$$'], ["\\[","\\]"] ]
+ }
+ });
+</script>
+
 # [My kicks](#mykicks)
 
 ## <a href="#index">Index</a><a id="index"></a>
@@ -316,7 +327,7 @@
                 に対する効果
                 多少のラベル付ミスを吸収
                 正解カテゴリ以外にも値が入ることで，特定のカテゴリに過剰に適合することが減る
-                
+
                 $$
                   \{0, 0, 1, 0\}
                 $$
