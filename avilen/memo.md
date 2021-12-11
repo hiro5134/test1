@@ -135,6 +135,10 @@
         →データをシャッフルして，それぞれの損失関数の挙動を変える
         →あるミニバッチでは上がり，他方では下がる，などができ最適な場所を見つけられる
 
+        $$
+          {\bm W} = {\bm W} - \eta\frac{\partial L}{\partial {\bm W}}
+        $$
+
         一方で損失関数の形状が急峻な場合，振動してしまう
 
     1. ## <a id="momentum">モメンタム</a>
@@ -165,6 +169,44 @@
 
         イテレーション数でバイアス補正
         →初期段階の不安定さを解消
+
+        ${\bm m}$は速度の概念
+        Momentum SDGにおける${\bm v}$
+        減衰率$\beta_1$で過去の勾配情報${\bm m}$と現在の勾配情報$\frac{\partial L}{\partial {\bm W}}$を調整する
+        $$
+          {\bm m} = \beta_1{\bm m} + (1 - \beta_1)\frac{\partial L}{\partial {\bm W}}
+        $$
+
+        ${\bm v}$過去の勾配の二乗和
+        $$
+          {\bm v} = \beta_2{\bm v} + (1 - \beta_2)\left(\frac{\partial L}{\partial {\bm W}}\right)^2
+        $$
+
+        ${\bm m}, {\bm v}$は減衰率によって減衰させられた勾配の(二乗)和
+        0.9が設定されると，勾配の１割しか学習に使われない
+        下記で調整
+        $$
+          {\hat{\bm m}} = \frac{{\bm m}}{1-\beta_1^t},
+          {\hat{\bm v}} = \frac{{\bm v}}{1-\beta_2^t}
+        $$
+        tはイテレーション数
+        $\beta^t$は0に漸近，$\frac{1}{1-\beta^t}$は1に漸近
+        ${\bm m, v}$に過去の情報が蓄積されるまでは勾配を利用
+        更新が進むにつれ上式の影響は薄れる
+
+        ${\hat{\bm m}},{\hat{\bm v}}$を用いてパラメータ${\bm W}$を更新
+        $\epsilon$は微小項（0除算のため）
+        $$
+          {\bm W} = -\eta\frac{{\hat{\bm m}}}{\sqrt{{\hat{\bm v}}}+\epsilon}
+        $$
+
+        以上を総合して
+        $$
+          {\bm W} = -\eta\frac{\sqrt{1-\beta_2^t}}{1-\beta_1^t}
+          \frac{{\bm m}}{\sqrt{{\bm v}}+\epsilon}
+        $$
+
+
 
 ## <a id = "cp4">Chapter 4</a>
 1. ## <a id="">勾配消失問題</a>
@@ -406,3 +448,7 @@
                 精度を落とさずモデル圧縮
 
                 32bitを上位16bitで表現　など
+
+      https://www.anarchive-beta.com/entry/2020/08/16/180000
+
+      https://qiita.com/hikobotch/items/78b53de44069fb19d311
