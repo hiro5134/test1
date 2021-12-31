@@ -137,7 +137,7 @@
         →あるミニバッチでは上がり，他方では下がる，などができ最適な場所を見つけられる
 
         $$
-          {\bm W} = {\bm W} - \eta\frac{\partial L}{\partial {\bm W}}
+          \bm{W} = \bm{W} - \eta\frac{\partial L}{\partial \bm{W}}
         $$
 
         一方で損失関数の形状が急峻な場合，振動してしまう
@@ -171,40 +171,40 @@
         イテレーション数でバイアス補正
         →初期段階の不安定さを解消
 
-        ${\bm m}$は速度の概念
-        Momentum SDGにおける${\bm v}$
-        減衰率$\beta_1$で過去の勾配情報${\bm m}$と現在の勾配情報$\frac{\partial L}{\partial {\bm W}}$を調整する
+        $\bm{m}$は速度の概念
+        Momentum SDGにおける$\bm{v}$
+        減衰率$\beta_1$で過去の勾配情報$\bm{m}$と現在の勾配情報$\frac{\partial L}{\partial \bm{W}}$を調整する
         $$
-          {\bm m} = \beta_1{\bm m} + (1 - \beta_1)\frac{\partial L}{\partial {\bm W}}
-        $$
-
-        ${\bm v}$過去の勾配の二乗和
-        $$
-          {\bm v} = \beta_2{\bm v} + (1 - \beta_2)\left(\frac{\partial L}{\partial {\bm W}}\right)^2
+          \bm{m} = \beta_1\bm{m} + (1 - \beta_1)\frac{\partial L}{\partial \bm{W}}
         $$
 
-        ${\bm m}, {\bm v}$は減衰率によって減衰させられた勾配の(二乗)和
+        $\bm{v}$過去の勾配の二乗和
+        $$
+          \bm{v} = \beta_2\bm{v} + (1 - \beta_2)\left(\frac{\partial L}{\partial \bm{W}}\right)^2
+        $$
+
+        $\bm{m}, \bm{v}$は減衰率によって減衰させられた勾配の(二乗)和
         0.9が設定されると，勾配の１割しか学習に使われない
         下記で調整
         $$
-          {\hat{\bm m}} = \frac{{\bm m}}{1-\beta_1^t},
-          {\hat{\bm v}} = \frac{{\bm v}}{1-\beta_2^t}
+          \hat{ \bm{m}} = \frac{\bm{m}}{1-\beta_1^t},
+          \hat{ \bm{v}} = \frac{\bm{v}}{1-\beta_2^t}
         $$
         tはイテレーション数
         $\beta^t$は0に漸近，$\frac{1}{1-\beta^t}$は1に漸近
-        ${\bm m, v}$に過去の情報が蓄積されるまでは勾配を利用
+        $\bm{m, v}$に過去の情報が蓄積されるまでは勾配を利用
         更新が進むにつれ上式の影響は薄れる
 
-        ${\hat{\bm m}},{\hat{\bm v}}$を用いてパラメータ${\bm W}$を更新
+        $\hat{\bm{m}},\hat{\bm{v}}$を用いてパラメータ$\bm{W}$を更新
         $\epsilon$は微小項（0除算のため）
         $$
-          {\bm W} = -\eta\frac{{\hat{\bm m}}}{\sqrt{{\hat{\bm v}}}+\epsilon}
+          \bm{W} = -\eta\frac{\hat{\bm{m}}}{\sqrt{\hat{\bm{v}}}+\epsilon}
         $$
 
         以上を総合して
         $$
-          {\bm W} = -\eta\frac{\sqrt{1-\beta_2^t}}{1-\beta_1^t}
-          \frac{{\bm m}}{\sqrt{{\bm v}}+\epsilon}
+          \bm{W} = -\eta\frac{\sqrt{1-\beta_2^t}}{1-\beta_1^t}
+          \frac{\bm{m}}{\sqrt{\bm{v}}+\epsilon}
         $$
 
 ## <a id = "cp4">Chapter 4</a>
@@ -580,7 +580,7 @@
         予測値算出・損失計算ではこの出力を活性化関数に通し，ラベルと比較する
         $$
           h_{next} = Act(x_t W_x + h_{pre} W_h + b)\\
-          {\hat y_t} = Act(h_{next} W_o + c)
+          \hat{ y_t} = Act(h_{next} W_o + c)
         $$
 
     1. ## <a id="">BPTTと教師強制</a>
@@ -816,15 +816,15 @@
             - 損失関数
                 $$
                   {\mathcal L} = D_{KL}[q(z|{bm X})||p(z)]
-                   - {\mathbb E}_{q(z|{\bm X})}[\textrm{log}\,p({\bm X}|z)]\\
-                   = D_{KL}[{\mathcal N}(\mu({\bm X}),\Sigma({\bm X}))||{\mathcal N}(0,1)] + \beta||{\bm Y} - {\bm X}||^2
+                   - {\mathbb E}_{q(z|\bm{X})}[\textrm{log}\,p(\bm{X}|z)]\\
+                   = D_{KL}[{\mathcal N}(\mu(\bm{X}),\Sigma(\bm{X}))||{\mathcal N}(0,1)] + \beta||\bm{Y} - \bm{X}||^2
                 $$
                 第一項：Encoderが求めた分布と${\mathcal N}(0,1)$との近さ
                 第二項：入力データと出力データの近さ(MSE)
 
                 AEの損失関数
                 $$
-                  {\mathcal L} = \beta||{\bm Y} - {\bm X}||^2
+                  {\mathcal L} = \beta||\bm{Y} - \bm{X}||^2
                 $$
 
             - 実用と課題
@@ -841,10 +841,10 @@
 
             GAN
             GeneratorがDiscriminatorを騙すように画像を生成
-            [ノイズ z] - [Generator G(z)] - [偽データ ${\hat x}$ + 真データ x] - [Discriminator D(x)] - [真偽(0,1)]
+            [ノイズ z] - [Generator G(z)] - [偽データ $\hat{ x}$ + 真データ x] - [Discriminator D(x)] - [真偽(0,1)]
 
             生成時
-            [ノイズ z] - [Generator G(z)] - [偽データ ${\hat x}$]
+            [ノイズ z] - [Generator G(z)] - [偽データ $\hat{ x}$]
             一様乱数からノイズzをサンプリング
             Generatorで新たなデータを生成する
 
@@ -874,14 +874,14 @@
                     1-2. SGDでDiscriminator更新
                         $$
                           \nabla_{\theta_d}\frac{1}{m}\sum_{i=1}^{m}
-                          \left[\textrm{log}D({\bm x}^{(i)}) +
-                          \textrm{log}\left(1 - D\left(G({\bm z}^{(i)})\right)\right)\right]
+                          \left[\textrm{log}D(\bm{x}^{(i)}) +
+                          \textrm{log}\left(1 - D\left(G(\bm{z}^{(i)})\right)\right)\right]
                         $$
                     2-1. mこのノイズzをサンプリング
                     2-2. SGDでGenerator更新
                         $$
                           \nabla_{\theta_g}\frac{1}{m}\sum_{i=1}^{m}
-                          \left[\textrm{log}\left(1 - D\left(G({\bm z}^{(i)})\right)\right)\right]
+                          \left[\textrm{log}\left(1 - D\left(G(\bm{z}^{(i)})\right)\right)\right]
                         $$
                     これらを全てのミニバッチに対して繰り返す
 
@@ -1216,13 +1216,13 @@
                   \nabla_{\theta} J(\theta) \approx
                   \left(r_t - b(s_t)\right) \nabla_{\theta}\textrm{log}\pi_{\theta}(a_t|s_t)
                 $$
-                →ベースライン関数に推定価値関数${\hat V}(s)$を用いることもあり，
-                $\left({\hat Q}(s,a) - {\hat V}(s)\right)$をアドバンテージ関数${\hat A}(s,a)$という．
-                (${\hat Q}(s,a) \approx r_t$)
+                →ベースライン関数に推定価値関数$\hat{ V}(s)$を用いることもあり，
+                $\left(\hat{ Q}(s,a) - \hat{ V}(s)\right)$をアドバンテージ関数$\hat{ A}(s,a)$という．
+                ($\hat{ Q}(s,a) \approx r_t$)
                 $$
                   \nabla_{\theta} J(\theta) \approx
-                  {\hat A}(s_t,a_t) \nabla_{\theta}\textrm{log}\pi_{\theta}(a_t|s_t)\\
-                  = \left({\hat Q}(s_t,a_t) - {\hat V}(s_t)\right)\nabla_{\theta}\textrm{log}\pi_{\theta}(a_t|s_t)
+                  \hat{ A}(s_t,a_t) \nabla_{\theta}\textrm{log}\pi_{\theta}(a_t|s_t)\\
+                  = \left(\hat{ Q}(s_t,a_t) - \hat{ V}(s_t)\right)\nabla_{\theta}\textrm{log}\pi_{\theta}(a_t|s_t)
                 $$
 
             1. ## <a id="">具体的なプローチ</a>
@@ -1240,13 +1240,13 @@
                     $$
                 - Actor-Critic
                     状態価値を学習(主にNN)→推定：Critic(推定器)
-                    Criticの推定した${\hat V}(s_t)$をベースラインにしてActor(行動器)を改善していく
+                    Criticの推定した$\hat{ V}(s_t)$をベースラインにしてActor(行動器)を改善していく
 
                     - A3C Asynchronous Advantage Actor-Critic
                         CriticをNNで学習したもの
                         $$
                           \nabla_{\theta} J(\theta,\phi) =
-                          \left({\hat Q}(s,a) - {\hat V}_{\phi}(s)\right) \nabla_{\theta}\textrm{log}\pi_{\theta}(a|s)
+                          \left(\hat{ Q}(s,a) - \hat{ V}_{\phi}(s)\right) \nabla_{\theta}\textrm{log}\pi_{\theta}(a|s)
                         $$
                         ($\phi$ : NNのパラメータ)
 
@@ -1256,7 +1256,7 @@
                         →学習が進まない
                         $$
                           \nabla_{\theta} J(\theta,\phi) =
-                          \left({\hat Q}(s,a) - {\hat V}_{\phi}(s)\right) \nabla_{\theta}\textrm{log}\pi_{\theta}(a|s)
+                          \left(\hat{ Q}(s,a) - \hat{ V}_{\phi}(s)\right) \nabla_{\theta}\textrm{log}\pi_{\theta}(a|s)
                           \underline{- \lambda\sum_a \pi_{\theta}(a|s)\textrm{log}\pi_{\theta}(a|s)}
                         $$
                         ($\lambda( > 0)$は正則化係数)
@@ -1913,4 +1913,112 @@
                         →contextを別のRNN系モデルにも「覗かせる」ことで，skip-connectionの効果がある
 
             1. ## <a id="">Attention</a>
-                
+                Seq2Seqのエンコーダの出力の有効活用
+                →系列長の課題をクリアできる
+                EncoderがDecoderの出力に注意を払う仕組み
+                →入力単語と出力単語の対応関係を学習する
+
+                Attention mechanismの仕組み
+                出力単語の予測に寄与する入力単語の情報を選ぶ
+                →抽出操作は微分不可能のため，BPできない
+                →各出力に重みaを掛け合わせて抽出する
+                →微分可能な抽出操作ができるようになる
+
+                重みaの求め方
+                - 加法注意 Additive Attention
+                    重みaを求めるために隠れ層1つのFFNを用いる
+                    →現時刻の変換(翻訳)を行うために必要な情報が含まれるように学習する
+
+                    query : Encoderの隠れ状態の集合($\bm{hs} = \bm{h^1},\dots,\bm{h^T}$)
+                    key : Decoderの隠れ状態(at 現在)($\bm{h^1}$)
+                    ↓
+                    FFN
+                    ↓
+                    結果をsoftmaxに通したものが重みa
+                    (重みの種sを受け取り，softmax関数に通し，Attentionの重みを計算)
+
+                    FFNでは全てのtに対して
+                    $$
+                      \bm{s}^t = v_a^{\textrm{T}}\textrm{tanh}(W_a\bm{h^1} + U_a\bm{h^t})
+                    $$
+                - 内積注意 D0t-Product Attention
+                    内積を用いて重みaを計算
+
+                    $$
+                      \bm{s}^t = \textrm{dot}(h_t, h^1)
+                    $$
+                    種sの計算に上式を利用．
+                    その後にsoftmaxに通すのは同じ
+                    →割合ベクトルを求める
+
+                    加法注意よりもGPUを用いやすいため，よく用いられる
+
+                重みaとエンコーダの隠れ状態hsの内積をとり，重み付き和hとする
+                それをデコーダ(MLP+softmax)に通す
+            1. ## <a id="">Attentionつきモデル</a>
+                系列同士の類似度を計算する方法の違い
+                1. self-Attention
+                    一つの系列内にて，各要素が他の要素に対してどのような関係性があるのか見る
+                1. Source Target Attention
+                    Seq2Seqのように異なる系列間の各要素の類似度を算出
+
+                - Google Neural Machine Translation(GNMT)
+                    AttentionつきSeq2Seq
+                    特徴
+                    - レイヤの多層化
+                    - 双方向LSTM
+                    - skip-connection
+
+                    重要
+                    - モデル並列
+                    - データ並列
+
+                    LSTMなどの時系列モデルは，時系列順に学習を行うため，並列計算が難しい
+                    →複数GPUでの分散学習
+            1. ## <a id="">Transformer</a>
+                Attentionのみのneural機械翻訳
+                (RNNモデルを用いていない)
+                →時系列データの学習においても並列計算でき，収束が早くなった
+
+                従来Attentionは精度向上の補助的な役割であった
+                →メイン機構として採用したのがTransformer(Attention is All You Need)
+
+                基本的な考え方
+                Self-AttentionとSource Target Attentionの組み合わせで単語間の関連性を学習
+                →単語の時系列順序を学習できない？
+                →Positional Encoder：単語の順序・位置関係を考慮
+                →Masked Multi-Head Attention：未来の情報のカンニングを防ぐ
+
+                - Positional Encoder
+                    単語の順序・位置関係の情報をベクトル化して，埋め込みベクトルに付与する
+
+                    これまでの課題
+                    Attentionのみでは単語間の時系列順序を学習できない
+                    →「位置ベクトル」を埋め込みベクトルに足す
+                    →sinとcosで計算される
+                    →単語同士の相対的な位置関係を規定できる
+                - Masked Multi-Head Attention
+                    decoderは系列の後ろの情報(未来の情報)を見れないようにmaskedする
+                    →memoryにおける未来の情報を，予測に寄与させてはいけない
+
+                1. ## <a id="">OpenAI GPT</a>
+                    TransformerのEncoder(Trm)を単語モデルに応用したアーキテクチャ
+
+                    GPT1,2,3がある
+                    →GPT2はあまりに人間そっくりな文章を生成し危険なため，一時公開が中止された
+
+                    問題点
+                    次の単語を予測するタスクであるため，未来の単語情報が使えない
+                    →BERTで解決
+                1. ## <a id="">BERT</a>
+                    Bidirectional Encoder Representations from Transformer
+                    双方向にTransformerのEncoderを用いた言語モデル
+                    言語間の関連性を正確に捉えられ，現代NLPの事前学習のデファクトスタンダード
+
+                    二つのモデルを用いている
+                    両者ともアノテーションのコストが低い
+                    →インターネット上にある文章をピックアップするだけで大量に学習させることができ，効率が良い
+                    - Masked Language Model(MLM)
+                        文章の穴埋め問題を解くモデル
+                    - Next Sentence Prediction(NSP)
+                        2文が渡され，連続した文かを判定
