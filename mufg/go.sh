@@ -1,3 +1,5 @@
+git pull
+
 git add .
 
 today=`date "+%m/%d/%Y %T"`

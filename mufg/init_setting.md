@@ -1,9 +1,7 @@
 ref > https://dara-blog.com/conect-ssh-gcp
 
 1. local
-	`eval \`ssh-agent\``
-	`ssh-add`
-	
+	`ssh-keygen`
 	1. ssh key
 		`ls ~/.ssh` or `ls /User/yasebehiroto/.ssh`
 		- `id_rsa` 秘密鍵
@@ -16,5 +14,11 @@ ref > https://dara-blog.com/conect-ssh-gcp
 	sshに登録
 	or https://console.cloud.google.com/compute/metadata/sshKeys
 
+
 1. local
 	`ssh -i ~/.ssh/id_rsa yasebehiroto@\{GCP外部IP\}`
+
+1. GCP local
+	ssh登録？
+	`eval \` ssh-agent \` `
+	`ssh-add`
