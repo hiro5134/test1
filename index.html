@@ -3,6 +3,7 @@
   <head>
     <meta charset="UTF-8">
     <title>HTML index</title>
+    <link rel="stylesheet" href="style.css">
     <script type="text/javascript" src="./javascript.js"></script>
     <!--
     <script>
@@ -12,28 +13,36 @@
   </head>
 
   <body>
-    here is index.<br>
-    before show me, here.html is shown.
+    <div>
+      here is index.<br>
+      before show me, here.html is shown.
+    </div>
+
+    <iframe src="./here.html"></iframe>
+
+
+
+    <div class="wapper">
+      <div id="box"></div>
+      <div id="box1">111</div>
+      <div id="box2">222</div>
+    </div>
 
     <!--
-    <iframe src="./here.html" width="600" height="100"></iframe>
-    -->
-
-    <div id="box"></div>
-
     <script>
-  	var xhr = new XMLHttpRequest(),
-  		method = "GET",
-  		url = "here.html";//読み込まれるHTMLを指定
-  	var box=document.getElementById("box");//読み込みたい位置を指定
+    	var xhr = new XMLHttpRequest(),
+    		method = "GET",
+    		url = "./here.html";//読み込まれるHTMLを指定
+    	var box=document.getElementById("box");//読み込みたい位置を指定
 
-  	xhr.open(method, url, true);
-  	xhr.onreadystatechange = function () {
-  		if(xhr.readyState === 4 && xhr.status === 200) {
-  			var restxt=xhr.responseText;//String型で取得
-  			box.innerHTML=restxt;//完了
-  		}
-  	};
-  	xhr.send();
-  </script>
+    	xhr.open(method, url, true);
+    	xhr.onreadystatechange = function () {
+    		if(xhr.readyState === 4 && xhr.status === 200) {
+    			var restxt=xhr.responseText;//String型で取得
+    			box.innerHTML=restxt;//完了
+    		}
+    	};
+    	xhr.send();
+    </script>
+    -->
 </html>

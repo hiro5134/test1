@@ -73,3 +73,29 @@ input[name="tab_item"] {
   background-color: #5ab4bd;
   color: #fff;
 }
+
+.wapper{
+  display: flex;
+  flex-wrap:wrap;
+}
+
+#box{
+  width: 60%;
+  border: 1px solid black;
+}
+
+#box1{
+  width: 20%;
+  border: 1px solid black;
+}
+
+#box2{
+  width: 18%;
+  border: 1px solid black;
+}
+
+iframe{
+  border:0px;
+  width: 750px;
+  height: 1600px;
+}
