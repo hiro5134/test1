@@ -8,6 +8,8 @@ git commit -m "${now}"
 
 git push
 
-if [$1 -eq -1]; then
-	echo 9999
+if [ "$1" -eq 1 ]; then
+	sudo shutdown -h now
+else
+	echo "continue"
 fi
