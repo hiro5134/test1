@@ -19,6 +19,6 @@ ref > https://dara-blog.com/conect-ssh-gcp
 	`ssh -i ~/.ssh/id_rsa yasebehiroto@\{GCP外部IP\}`
 
 1. GCP local
-	ssh登録？
+	ssh登録して，ID・PW入力不要に
 	`eval \` ssh-agent \` `
 	`ssh-add`
